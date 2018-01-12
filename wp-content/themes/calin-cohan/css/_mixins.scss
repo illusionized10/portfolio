@@ -1,0 +1,136 @@
+// -- Settings for Breakpoints (Media Querys set to boostrap sizes).
+
+$xs: 380px;
+$sm: 768px;
+$md: 992px;
+$lg: 1200px;
+
+$breakpoints: (
+    'xs': (min-width: $xs),
+    'sm': (min-width: $sm),
+    'md': (min-width: $md),
+    'lg': (min-width: $lg),
+);
+
+// -- Breakpoints (Media Querys set to boostrap sizes).
+@mixin breakpoint($name) {
+    @if map-has-key($breakpoints, $name) {
+        @media #{inspect(map-get($breakpoints, $name))} {
+            @content;
+        }
+    }
+    @else {
+        @warn "Couldn't find a breakpoint named `#{$name}`.";
+    }
+}
+// -- Branding colours.
+$branding-colors: (
+    'yellow' : #f7ac54,
+    'grey': #444444,
+    'red': #a0482f,
+    'black': #000000,
+    'charcoal': #424242,
+    'dark-grey': #83969f,
+    'off-white': #fafafa,
+    'white': #fff,
+    'tiffany-blue' : #1abc9c,
+    'footer-blue' : #253957,
+    'dark-blue' : #344d71,
+    'orange' : #f4662c,
+);
+
+// -- Color variables.
+$branding-yellow: map-get($branding-colors, 'yellow');
+$branding-blue: map-get($branding-colors, 'dark-blue');
+$branding-footer-blue: map-get($branding-colors, 'footer-blue');
+$branding-tertiary: map-get($branding-colors, 'black');
+$branding-quaternary: map-get($branding-colors, 'black');
+$branding-quinary: map-get($branding-colors, 'charcoal');
+$branding-senary: map-get($branding-colors, 'off-white');
+$branding-septenary: map-get($branding-colors, 'grey');
+$branding-octonary: map-get($branding-colors, 'dark-grey');
+$branding-link: map-get($branding-colors, 'blue');
+
+// -- Colors for social media bar.
+$social-media: (
+    'facebook': #3b5998,
+    'google-plus': #c63d2d,
+    'instagram': #4e433c,
+    'linkedin': #4875b4,
+    'twitter': #33ccff,
+    'youtube': #ff3333,
+    'pinterest': #cd1f28,
+    'flickr': #e2e2e2,
+    'rss': #fe9900,
+);
+
+// -- Set a rem font size with pixel fallback
+@function calculateRem($size) {
+    $remSize: $size / 18px;
+    @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+    font-size: $size;
+    font-size: calculateRem($size);
+}
+
+// -- Transitions.
+@mixin transition($args...) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    -ms-transition: $args;
+    -o-transition: $args;
+    transition: $args;
+}
+
+.transition {
+    @include transition(.25s all ease);
+}
+
+// -- Vendor prefix.
+@mixin prefix($property, $value, $vendors: webkit moz ms o) {
+    @if $vendors {
+        @each $vendor in $vendors {
+            #{"-" + $vendor + "-" + $property}: #{$value};
+        }
+    }
+    #{$property}: #{$value};
+}
+
+// -- No Padding.
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+// -- Animation.
+@mixin keyframes($animation-name) {
+    @-webkit-keyframes #{$animation-name} {
+        @content;
+    }
+
+    @-moz-keyframes #{$animation-name} {
+        @content;
+    }
+
+    @-ms-keyframes #{$animation-name} {
+        @content;
+    }
+
+    @-o-keyframes #{$animation-name} {
+        @content;
+    }
+
+    @keyframes #{$animation-name} {
+        @content;
+    }
+}
+//Keyframe Animation
+@mixin animation($str) {
+    -webkit-animation: #{$str};
+    -moz-animation: #{$str};
+    -ms-animation: #{$str};
+    -o-animation: #{$str};
+    animation: #{$str};
+}

@@ -55,7 +55,7 @@ get_header(); ?>
         <!-- Main Menu List -->
         <div class="navbar-collapse" id="js-navbar-menu">
             <ul class="nav navbar-nav navbar-right" id="navbar-nav">
-                <li><a class="btn-nav" href="#services-section">services</a></li>
+                <li><a class="btn-nav" href="#services-section">professions</a></li>
                 <li><a class="btn-nav" href="#portfolio-section">portfolio</a></li>
                 <li><a class="btn-nav" href="#testimonial-section">testimonials</a></li>
                 <li><a class="btn-nav" href="#team-section">team</a></li>
