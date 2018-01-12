@@ -67,7 +67,7 @@ get_header(); ?>
         <!-- Right Side Navigation Button -->
         <div class="navbar-collapse-right hidden-xs " >
             <ul class="nav navbar-nav navbar-right btn-scroll">
-                <li><a class="btn-nav" href="#contact-us-section">Get in Teach <i class="icon icon-arrow-right"></i></a></li>
+                <li><a class="btn-nav" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a></li>
             </ul>
         </div>
 
@@ -96,7 +96,7 @@ get_header(); ?>
                                 <div class="heading-outer top-bottom relative">
                                     <div class="overflow p-t-40 p-l-40 p-r-40 p-b-40">
                                         <div class="section-heading-outer">
-                                            <h1 class="heading">We're <span class="color">Fusion</span>, We Build Things for Human</h1>
+                                            <h1 class="heading">Hello. I'm <span class="color">Calin Cohan</span>.<br> I develop &amp; design beautiful UX's.</h1>
                                         </div>
                                     </div>
                                 </div>
@@ -138,7 +138,7 @@ get_header(); ?>
                         <div class="navbar-collapse-right" >
                             <ul class="nav navbar-nav navbar-right btn-scroll">
                                 <li>
-                                    <a class="btn-nav btn-mask" href="#contact-us-section">Get in Teach <i class="icon icon-arrow-right"></i></a>
+                                    <a class="btn-nav btn-mask" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -177,12 +177,12 @@ get_header(); ?>
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer m-b-15">
-                            <p class="sub-heading wow">OUR SERVICES</p>
+                            <p class="sub-heading wow">PROFESSIONS</p>
                         </div> 
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
-                            <h2 class="section-heading wow">Our team will take your business presence to new level</h2>
+                            <h2 class="section-heading wow">From executing modern designs, to programming websites &amp; mobile applications.</h2>
                         </div>
                     </div>
                 </div>

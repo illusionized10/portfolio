@@ -23,18 +23,21 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <!-- font-family: 'Open Sans', sans-serif; -->
 
-    <!-- BOOTSTRAP CSS -->
+    <!-- Bootstrap -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.min.css">
 
-    <!-- Image Slider -->
+    <!-- Owl Carousel -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/owl.carousel.css">
 
-    <!-- FONT ICONS -->
+    <!-- Icons -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/icons/rik-icons/styles.css">
 
-    <!--   CUSTOM CSS link  -->
+    <!-- Custom CSS  -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive.css">
+
+    <!-- Custom Stylesheet Overrides -->
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
 
 	<?php wp_head(); ?>
 </head>

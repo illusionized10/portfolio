@@ -1,0 +1,18 @@
+body {
+	::selection {
+		background: #fad6ab; /* WebKit/Blink Browsers */
+	}
+	::-moz-selection {
+		background: #fad6ab; /* Gecko Browsers */
+	}
+
+
+	// Introduction Section
+	.home-content-outer {
+		h1.heading {
+			font-size:32px;
+			color:black;
+		}
+	}
+
+}

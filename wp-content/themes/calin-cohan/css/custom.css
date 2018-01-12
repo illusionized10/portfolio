@@ -1,0 +1,11 @@
+body ::selection {
+  background: #fad6ab;
+  /* WebKit/Blink Browsers */ }
+body ::-moz-selection {
+  background: #fad6ab;
+  /* Gecko Browsers */ }
+body .home-content-outer h1.heading {
+  font-size: 32px;
+  color: black; }
+
+/*# sourceMappingURL=custom.css.map */
