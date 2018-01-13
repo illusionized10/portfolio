@@ -44,17 +44,76 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
+    <!-- Screen Reader Text -->
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'calin-cohan' ); ?></a>
+
+    <!-- Start: Preloader Section
+    =================================== -->
+    <div id="main-preloader" class="main-preloader semi-dark-background">
+        <div class="container full-height">
+            <div class="row full-height">
+                <div class="full-height col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+
+                    <div class="main-preloader-inner">
+
+                        <h1 class="preloader-percentage">
+                            <span class="preloader-percentage-text">0%</span> <!-- Show Percentage Number -->
+                            <!-- <span class="percentage">%</span> -->
+                        </h1>
+                        <div class="preloader-bar-outer">
+                            <div class="preloader-bar"></div> <!-- Percentage Precess Bar -->
+                        </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End: Preloader Section
+    =================================== -->
 
 	<header id="masthead" class="site-header">
 
-		<div class="site-branding">
+        <!-- Start: Navbar  Area
+        ============================= -->
+        <nav class="navbar navbar-fixed-top main-navbar-top navbar-top-js" id="main-navbar-top" >
+            <div class="container relative">
+                <div class="navbar-header">
 
-		</div><!-- .site-branding -->
+                    <!-- Menu Button show Mobile view -->
+                    <button type="button" class="nav-trigger nav-trigger-animate"  data-target="#js-navbar-menu">
+                        <span aria-hidden="true" class="icon"></span>
+                    </button>
 
-		<nav id="site-navigation" class="main-navigation">
+                    <!-- TEMPLATE LOGO LIGHT -->
+                    <a class="navbar-brand light-logo btn-scroll" href="#home-section"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="" class="img-responsive"></a>
 
-		</nav><!-- #site-navigation -->
+                </div>
+                
+                <!-- Main Menu List -->
+                <div class="navbar-collapse" id="js-navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" id="navbar-nav">
+                        <li><a class="btn-nav" href="#services-section">professions</a></li>
+                        <li><a class="btn-nav" href="#portfolio-section">portfolio</a></li>
+                        <li><a class="btn-nav" href="#testimonial-section">testimonials</a></li>
+                        <li><a class="btn-nav" href="#team-section">team</a></li>
+                        <li><a class="btn-nav" href="#contact-us-section">Contact Us</a></li>
+                    </ul>
+                </div>
+
+
+                <!-- Right Side Navigation Button -->
+                <div class="navbar-collapse-right hidden-xs " >
+                    <ul class="nav navbar-nav navbar-right btn-scroll">
+                        <li><a class="btn-nav" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+        <!-- End: Navbar Area
+        ============================= -->
 
 	</header><!-- #masthead -->
 

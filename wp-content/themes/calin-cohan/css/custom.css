@@ -67,5 +67,11 @@ body .home-content-outer h1.heading {
   font-size: 40px;
   color: #ffffff;
   font-weight: 400; }
+body .home-content-outer .list-view ul.nav li a {
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-weight: 300; }
 
 /*# sourceMappingURL=custom.css.map */
