@@ -7,9 +7,6 @@
 
 get_header(); ?>
 
-<!--Start: 1st Section  
-    - HOME PAGE 
-====================================-->
 <div class="section section-item home-section overflow hide-overlay overlay-color bg-image-1 wow" id="home-section">
     <div class="inner-container ">
         <div class="container">
@@ -57,10 +54,7 @@ get_header(); ?>
                 <nav class="navbar navbar-fixed-top main-navbar-top home-nav overflow">
                     <div class="container relative home-nav-inner">
                         <div class="navbar-header">
-
-                            <!-- TEMPLATE LOGO LIGHT -->
                             <a class="navbar-brand light-logo" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="" class="img-responsive"></a>
-
                         </div>
 
                         <div class="navbar-collapse-right" >
@@ -78,25 +72,14 @@ get_header(); ?>
             </div>
         </div>
     </div>
-</div> 
-<!--End: 1st Section  
-    - HOME PAGE 
-====================================-->
+</div>
 
 
-
-
-<!--Start: 2nd Section  
-    - SERVICES PAGE 
-====================================-->
 <div class=" section section-item combine-section hide-overlay overflow semi-dark-background" id="services-section">
-    
     <div class="inner-container services-section ">
          <div class="container">
             <div class="row">
-
-
-                <!-- Start: Section Heading -->
+                
                 <div class="section-header col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                     <div class="overflow">
                         <div class="line-outer">
@@ -114,11 +97,9 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <!-- End: Section Heading -->
 
                 <div class="clearfix"></div>
                 
-                <!-- Start: Each Services Section -->
                 <div class="each-services-outer overflow section-separator sp-bottom">
 
                     <div class="each-services col-sm-4 col-xs-12">
@@ -470,18 +451,8 @@ get_header(); ?>
             </div> <!-- End: .row -->
         </div> <!-- End: .container -->
     </div> <!-- End: . -->
-
 </div>
-<!--End: 2nd Section  
-    - SERVICES PAGE 
-====================================-->
 
-
-
-
-<!--Start: 3rd Section  
-    - Portfolio PAGE
-====================================-->
 <div class=" section section-item dark-background" id="portfolio-section">
     <div class="inner-container ">
          <div class="container">
@@ -514,9 +485,7 @@ get_header(); ?>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">
-                                                    Project One
-                                                </div>
+                                                <div class="inner">Project One</div>
                                             </div>
                                         </div>
 
@@ -526,11 +495,13 @@ get_header(); ?>
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-   <!--                                          <div class="link two overflow">
+                                            <!--
+                                             <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
                                                 </div>
-                                            </div> -->
+                                            </div>
+                                            -->
                                             <div class="line hidden-xs"></div>
                                         </div>
                                     </div>
@@ -652,9 +623,7 @@ get_header(); ?>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">
-                                                    Project Two
-                                                </div>
+                                                <div class="inner">Project Two</div>
                                             </div>
                                         </div>
 
@@ -664,11 +633,13 @@ get_header(); ?>
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-<!--                                             <div class="link two overflow">
+                                            <!--
+                                             <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
                                                 </div>
-                                            </div> -->
+                                            </div>
+                                            -->
                                             <div class="line hidden-xs"></div>
                                         </div>
                                     </div>
@@ -1263,12 +1234,12 @@ get_header(); ?>
                         </div>
                         <div class="overflow">
                             <div class="section-heading-outer m-b-15">
-                                <p class="sub-heading wow">CONTACT US</p>
+                                <p class="sub-heading wow">CONTACT</p>
                             </div> 
                         </div>
                         <div class="overflow">
                             <div class="section-heading-outer p-l-50 p-r-50">
-                                <h2 class="section-heading wow">Let's talk about the project</h2>
+                                <h2 class="section-heading wow">Let's have a coffee &amp; chat.</h2>
                             </div>
                         </div>
                     </div>
@@ -1356,118 +1327,11 @@ get_header(); ?>
 
                     <div class="clearfix"></div>
 
-                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 contact-footer">
-                        <div class="row">
-                            
-                            <div class="about col-sm-1 m-t-15">
-
-                                <div class="overflow">
-                                    <div class="logo-outer wow">
-                                        <a href="index.html" class="logo-link">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="" class="img-responsive logo">
-                                        </a>
-                                    </div>
-                                </div>
-
-                            </div> <!-- End: .about -->
-                            <div class="other-link col-sm-11">
-                                <div class="row">
-                                    
-                                    <div class="each-section col-sm-4 col-xs-12">
-                                        <div class="each-section-inner">
-                                            
-                                            <div class="overflow">
-                                                <p class="title wow">California office</p>
-                                            </div>
-                                            <ul class="nav">
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        4243 Woodland Terrace
-                                                    </div>
-                                                </li>
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        Sacramento, CA 95814
-                                                    </div>
-                                                </li>
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        <a href="callto:9167532645" class="btn-mask">916 753 2645</a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-
-                                        </div>
-                                    </div> <!-- End: .each-section -->
-                                    <div class="each-section col-sm-4 col-xs-12">
-                                        <div class="each-section-inner">
-                                            
-                                            <div class="overflow">
-                                                <p class="title wow">new york office</p>
-                                            </div>
-                                            <ul class="nav">
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        885 Oakwood Avenue
-                                                    </div>
-                                                </li>
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        New York, NY 10013
-                                                    </div>
-                                                </li>
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        <a href="callto:2126600744" class="btn-mask">212 660 0744</a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-
-                                        </div>
-                                    </div> <!-- End: .each-section -->
-                                    <div class="each-section col-sm-4 col-xs-12">
-                                        <div class="each-section-inner">
-                                            
-                                            <div class="overflow">
-                                                <p class="title wow">Other Contact</p>
-                                            </div>
-                                            <ul class="nav">
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        <a href="mailto:jobs@templateocean.com" class="btn-mask">jobs@templateocean.com</a>
-                                                    </div>
-                                                </li>
-                                                <li class="overflow">
-                                                    <div class="li-inner wow">
-                                                        <ul class="nav social-icon">
-                                                            <li><a href="#"><i class="icon icon-social-facebook"></i></a></li>
-                                                            <li><a href="#"><i class="icon icon-social-twitter"></i></a></li>
-                                                            <li><a href="#"><i class="icon icon-social-pinterest"></i></a></li>
-                                                            <li><a href="#"><i class="icon icon-social-instagram"></i></a></li>
-                                                        </ul>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        
-                                        </div>
-                                    </div> <!-- End: .each-section -->
-
-                                </div>
-                            </div> <!-- End: .other-link -->
-
-                        </div> <!-- End: .row -->
-                    </div> <!-- End: .contact-footer -->
-
                 </div> <!-- End: .row -->
             </div> <!-- End: .container -->
         </div> <!-- End: .inner-container -->
-        
     </div>
-
 </div>
-<!--End: 6th Section  
-    - CONTACT US PAGE
-====================================-->
 
 <?php
 get_footer();
