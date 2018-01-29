@@ -41,7 +41,7 @@ get_header(); ?>
 
                 </div>
                 
-                <!-- Next Section Arrow -->
+                <!-- SCROLL DOWN ARROW -->
                 <div class="footer-button">
                     <div class="overflow m-t-30">
                         <div class="btn-form-outer btn-scroll">  <!-- Button Area -->
@@ -49,8 +49,9 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
+                <!-- END SCROLL DOWN ARROW -->
 
-                <!-- Home Page Buttom Navigation -->
+                <!-- NAVIGATION -->
                 <nav class="navbar navbar-fixed-top main-navbar-top home-nav overflow">
                     <div class="container relative home-nav-inner">
                         <div class="navbar-header">
@@ -67,7 +68,7 @@ get_header(); ?>
 
                     </div>
                 </nav>
-                <!-- End: Home Page Buttom Navigation -->
+                <!-- END NAVIGATION -->
 
             </div>
         </div>
@@ -79,7 +80,7 @@ get_header(); ?>
     <div class="inner-container services-section ">
          <div class="container">
             <div class="row">
-                
+
                 <div class="section-header col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                     <div class="overflow">
                         <div class="line-outer">
@@ -107,17 +108,18 @@ get_header(); ?>
                             
                             <div class="overflow">
                                 <div class="features-icon-outer wow">
-                                    <i class="icon icon-icon-documents-alt features-icon"></i>
+                                    <i class="fas fa-object-group"></i>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Strategy.</h4>
+                                    <h4 class="title">UX Design.</h4>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>Ship it user story iterate engaging co-working intuitive pitch deck hacker prototype SpaceTeam user centered design big data.</p>
+                                    <p>Without a user-friendly interface visitors are likely to leave your website, resulting in conversion loss. I can help create
+                                    an engaging and user friendly experience.</p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
@@ -127,19 +129,19 @@ get_header(); ?>
                             </div>
 
                         </div>
-                    </div> <!-- End: .each-services -->
+                    </div> 
 
                     <div class="each-services col-sm-4 col-xs-12">
                         <div class="each-services-inner">
                             
                             <div class="overflow">
                                 <div class="features-icon-outer wow">
-                                    <i class="icon icon-icon-pencil-edit-alt features-icon"></i>
+                                    <i class="fas fa-code"></i>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Branding.</h4>
+                                    <h4 class="title">Programming.</h4>
                                 </div>
                             </div>
                             <div class="overflow">
@@ -154,7 +156,7 @@ get_header(); ?>
                             </div>
 
                         </div>
-                    </div> <!-- End: .each-services -->
+                    </div> 
 
                     <div class="each-services col-sm-4 col-xs-12">
                         <div class="each-services-inner">
@@ -181,10 +183,9 @@ get_header(); ?>
                             </div>
 
                         </div>
-                    </div> <!-- End: .each-services -->
+                    </div> 
 
-                </div> 
-                <!-- End: Each Services Section -->
+                </div>
                 
 
                 <!-- Start: Each Services Part Full Detail -->
@@ -211,50 +212,24 @@ get_header(); ?>
                                     </div>
 
                                     <div class="section-title-outer overflow">
-                                        <h3 class="section-title">Strategy.</h3>
+                                        <h3 class="section-title">UX Design.</h3>
                                     </div>
 
                                     <div class="overflow m-b-15">
                                         <div class="title-outer">
-                                            <h6 class="title relative">PERFECT STARATEGY FORYOUR BRAND</h6>
+                                            <h6 class="title relative">A FRIENDLY USER EXPERIENCE IS EVERYTHING</h6>
                                         </div>
                                     </div>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships.</p>
+                                            <p>User Experience (UX) refers to a person's emotions and attitudes about using a particular product, system or service. It includes the practical, experiential, affective, meaningful and valuable aspects of human–computer interaction and product ownership. Additionally, it includes a person’s perceptions of system aspects such as utility, ease of use and efficiency. User experience may be considered subjective in nature to the degree that it is about individual perception and thought with respect to the system.</p>
                                         </div>
                                     </div>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-
-                                            <p>During your life you will probably meet some people who seem like they may be the one, or that they are closers, and I thought everything was great, until I started to seriously consider getting married.</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="overflow m-t-15">
-                                        <div class="list-outer">
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-ribbon"></i> Award-winning Strategist
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-search-alt"></i> Extended Research
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-document"></i> Bullet-prof Planning
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-like-alt"></i> Trusted by Thousands
-                                                </div>
-                                            </div>
+                                            <p>User experience is dynamic as it is constantly modified over time due to changing usage circumstances and changes to individual systems as well as the wider usage context in which they can be found. In the end user experience is about how the user interacts and experiences the product.
                                         </div>
                                     </div>
 
