@@ -146,7 +146,7 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>Ship it user story iterate engaging co-working intuitive pitch deck hacker prototype SpaceTeam user centered design big data.</p>
+                                    <p>Front-end and back-end programming applications and websites requires working knowledge of how a back-end is to function with a nice looking front-end user interface.</p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
@@ -163,17 +163,17 @@ get_header(); ?>
 
                             <div class="overflow">
                                 <div class="features-icon-outer wow">
-                                    <i class="icon icon-icon-pens features-icon"></i>
+                                    <i class="fab fa-searchengin"></i>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Design.</h4>
+                                    <h4 class="title">Branding &amp; SEO.</h4>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>Ship it user story iterate engaging co-working intuitive pitch deck hacker prototype SpaceTeam user centered design big data.</p>
+                                    <p>SEO stands for "Search Engine Optimization". It is the process of getting traffic from the free, organic, editorial or natural search results on search engines.</p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
@@ -428,6 +428,7 @@ get_header(); ?>
     </div> <!-- End: . -->
 </div>
 
+<?php /* 
 <div class=" section section-item dark-background" id="portfolio-section">
     <div class="inner-container ">
          <div class="container">
@@ -861,14 +862,15 @@ get_header(); ?>
             </div> <!-- End: .row -->
         </div> <!-- End: .container -->
     </div> <!-- End: .inner-container -->
-
 </div>
+*/ ?>
 <!--End: 3rd Section  
     - Portfolio PAGE
 ====================================-->
 
 
 
+<?php /*
 <!--Start: 4th Section  
     - TESTIMONIAL PAGE
 ====================================-->
@@ -994,12 +996,10 @@ get_header(); ?>
 <!--End: 4th Section  
     - TESTIMONIAL PAGE
 ====================================-->
+*/ ?>
 
 
-
-<!--Start: 5th Section  
-    - OUR TEAM PAGE
-====================================-->
+<?php /*
 <div class=" section section-item combine-section hide-overlay overflow dark-background" id="team-section">
     <div class="inner-container team-member dark-background">
         <div class="container">
@@ -1188,6 +1188,7 @@ get_header(); ?>
     - OUR TEAM PAGE
 ====================================-->
 
+*/ ?>
 
 
 <!--Start: 6th Section  
