@@ -73,6 +73,10 @@ body .home-content-outer .list-view ul.nav li a {
   letter-spacing: 3px;
   text-transform: uppercase;
   font-weight: 300; }
+body .services-content-outer .pera-outer p {
+  font-size: 16px !important;
+  color: #d6d6d6 !important;
+  font-weight: 300 !important; }
 body .each-services i {
   color: #f7ac54;
   font-size: 32px;
