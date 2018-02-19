@@ -1335,7 +1335,7 @@ section.section {
  * ========================================
  */
 .bg-image-1 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/portfolioBG.jpg');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
