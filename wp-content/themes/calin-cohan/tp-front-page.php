@@ -21,7 +21,7 @@ get_header(); ?>
                                 <div class="heading-outer top-bottom relative">
                                     <div class="overflow p-t-40 p-l-40 p-r-40 p-b-40">
                                         <div class="section-heading-outer">
-                                            <h1 class="heading">Hello. I'm <span class="color">Calin Cohan</span>.<br> I develop &amp; design beautiful UX's.</h1>
+                                            <h1 class="heading">Hello. I'm <span class="color">Calin Cohan</span>.<br> I <span class="">develop</span> &amp; <span class="">design</span> beautiful UX's.</h1>
                                         </div>
                                     </div>
                                 </div>
