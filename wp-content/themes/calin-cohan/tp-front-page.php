@@ -32,7 +32,7 @@ get_header(); ?>
                             <div class="list-view">
                                 <ul class="nav">
                                     <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;UX DESIGN&nbsp;&nbsp;&nbsp;</a></li>
-                                    <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;PROGRAMMING&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;WEB DEVELOPMENT&nbsp;&nbsp;&nbsp;</a></li>
                                     <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;BRANDING &amp; SEO&nbsp;&nbsp;&nbsp;</a></li>
                                 </ul>
                             </div>
@@ -55,7 +55,7 @@ get_header(); ?>
                 <nav class="navbar navbar-fixed-top main-navbar-top home-nav overflow">
                     <div class="container relative home-nav-inner">
                         <div class="navbar-header">
-                            <a class="navbar-brand light-logo" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="" class="img-responsive"></a>
+                            <a class="navbar-brand light-logo" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo-icon.png" alt="" class="img-responsive"></a>
                         </div>
 
                         <div class="navbar-collapse-right" >
@@ -136,7 +136,7 @@ get_header(); ?>
                             
                             <div class="overflow">
                                 <div class="features-icon-outer wow">
-                                    <i class="fas fa-code"></i>
+                                    <i class="fab fa-html5"></i>
                                 </div>
                             </div>
                             <div class="overflow">
@@ -428,7 +428,6 @@ get_header(); ?>
     </div> <!-- End: . -->
 </div>
 
-<?php /* 
 <div class=" section section-item dark-background" id="portfolio-section">
     <div class="inner-container ">
          <div class="container">
@@ -863,7 +862,6 @@ get_header(); ?>
         </div> <!-- End: .container -->
     </div> <!-- End: .inner-container -->
 </div>
-*/ ?>
 <!--End: 3rd Section  
     - Portfolio PAGE
 ====================================-->
@@ -893,7 +891,7 @@ get_header(); ?>
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
-                            <h2 class="section-heading wow">We have worked with some amazing companies around the world</h2>
+                            <h2 class="section-heading wow">I have been lucky to work with some amazing companies</h2>
                         </div>
                     </div>
                 </div>
@@ -906,13 +904,13 @@ get_header(); ?>
                         
                         <!-- OUR CLIENTS LOGO -->
                         <ul class="nav client-logo wow">
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/1.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/2.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/3.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/4.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/5.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/6.png" alt=""></li>
-                            <li><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/7.png" alt=""></li>
+                            <li><a href="https://us.pg.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/png.png" alt="P&G"></a></li>
+                            <li><a href="http://www.bigbearsoftware.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/bigbearSoftware.png" alt="Big Bear Software"></a></li>
+                            <li><a href="http://halltreefarms.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/halltreefarms.png" alt="Hall Tree Farms"></a></li>
+                            <li><a href="http://surveylife.software/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/surveyLife.png" alt="Survey Life"></a></li>
+                            <li><a href="https://www.okanagancelebrations.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/marteLogo.png" alt="South Okanagan Properties"></a></li>
+                            <li><a href="http://www.in-toronto-web-design.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/okanaganCelebrations.png" alt="Geekpower Web Design"></a></li>
+                            <li><a href="http://www.pastafermentata.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/pastaFermentata.png" alt=""></a></li>
                         </ul>
 
                     </div> <!-- End: .overflow -->
@@ -932,13 +930,13 @@ get_header(); ?>
                                 </div>
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“These cartridges can be replaced by the printer ink of similar brand. Compatible Inkjet Cartridge will help you to make extra-ordinary savings with money back guarantee. As soon as the cartridge gets empty the ink that it contains begins to dry”</blockquote>
+                                        <blockquote>“Calin was able to work closely with us and help provide a number of multimedia assets which we were in need of at Hall Tree Farms. The work completed was presented to us in a timely manner and we were very happy with everything done by this creative individual.”</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
                                     <div class="profile-outer">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">PETER HALL</span>
+                                        <span class="position">CEO, Hall Tree Farms</span>
                                     </div>
                                 </div>
 
@@ -952,13 +950,13 @@ get_header(); ?>
                                 </div>
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“These cartridges can be replaced by the printer ink of similar brand. Compatible Inkjet Cartridge will help you to make extra-ordinary savings with money back guarantee. As soon as the cartridge gets empty the ink that it contains begins to dry”</blockquote>
+                                        <blockquote>“The level of professionalism which is portrayed through our website is outstanding. We are very happy with the end product and would recommend working with Calin if you need a modern website. His high level of understanding the web means less headaches for everyone!”</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
                                     <div class="profile-outer">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">CHRIS MARTE</span>
+                                        <span class="position">Real Estate Broker, South Okanagan Properties</span>
                                     </div>
                                 </div>
 
@@ -972,13 +970,13 @@ get_header(); ?>
                                 </div>
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“These cartridges can be replaced by the printer ink of similar brand. Compatible Inkjet Cartridge will help you to make extra-ordinary savings with money back guarantee. As soon as the cartridge gets empty the ink that it contains begins to dry”</blockquote>
+                                        <blockquote>“Working with Calin I was able to finally open up my own local start-up and have it truly reflect what I had in mind when it came to starting my own business. The web-design process felt very seamless and easy with someone that knows what they are doing!”</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
                                     <div class="profile-outer">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">DAN WILTON</span>
+                                        <span class="position">CEO, Okanagan Celebrations</span>
                                     </div>
                                 </div>
 
@@ -1012,12 +1010,12 @@ get_header(); ?>
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer m-b-15">
-                            <p class="sub-heading wow">OUR TEAM</p>
+                            <p class="sub-heading wow">MY SKILLS</p>
                         </div> 
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
-                            <h2 class="section-heading wow">Our Amazing Team</h2>
+                            <h2 class="section-heading wow">Programming &amp; Design Related</h2>
                         </div>
                     </div>
                 </div>
@@ -1033,11 +1031,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/2.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/html5.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">HTML</span>
+                                        <span class="position">10+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1051,11 +1049,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/3.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/css3.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">CSS</span>
+                                        <span class="position">10+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1069,11 +1067,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/1.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/javascript.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">JAVASCRIPT</span>
+                                        <span class="position">10+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1087,11 +1085,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/4.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/php.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">PHP</span>
+                                        <span class="position">8+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1105,11 +1103,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/5.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/photoshopIcon.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">ADOBE PHOTOSHOP</span>
+                                        <span class="position">8+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1123,11 +1121,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/6.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/illustratorIcon.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">ADOBE ILLUSTRATOR</span>
+                                        <span class="position">4+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1141,11 +1139,11 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/7.jpg" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/indesignIcon.png" alt="Team Member" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
+                                        <span class="name">ADOBE INDESIGN</span>
+                                        <span class="position">4+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">

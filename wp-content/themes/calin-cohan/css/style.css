@@ -3590,6 +3590,7 @@ section.section {
   transform: translate3d( 0px, 0, 0px );
 }
 .owl-item.active .each-portfolio-heading .heading-text.active .text .inner {
+  color:#9173d6;
   -o-transition-delay: 0.4s ;
   -ms-transition-delay: 0.4s ;
   -moz-transition-delay: 0.4s ;

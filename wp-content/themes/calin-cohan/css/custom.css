@@ -58,10 +58,10 @@ img.alignnone {
   display: none; }
 
 body ::selection {
-  background: #fad6ab;
+  background: #cab3ff;
   /* WebKit/Blink Browsers */ }
 body ::-moz-selection {
-  background: #fad6ab;
+  background: #cab3ff;
   /* Gecko Browsers */ }
 body .home-content-outer h1.heading {
   font-size: 40px;
