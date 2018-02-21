@@ -21,7 +21,7 @@ get_header(); ?>
                                 <div class="heading-outer top-bottom relative">
                                     <div class="overflow p-t-40 p-l-40 p-r-40 p-b-40">
                                         <div class="section-heading-outer">
-                                            <h1 class="heading">Hello. I'm <span class="color">Calin Cohan</span>.<br> I <span class="">develop</span> &amp; <span class="">design</span> beautiful UX's.</h1>
+                                            <h1 class="heading">Hello. I'm <span class="color">Calin Cohan</span>.<br> I develop &amp; design beautiful UX's.</h1>
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +141,7 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Programming.</h4>
+                                    <h4 class="title">Web Development.</h4>
                                 </div>
                             </div>
                             <div class="overflow">
@@ -870,7 +870,7 @@ get_header(); ?>
 
 
 
-<?php /*
+
 <!--Start: 4th Section  
     - TESTIMONIAL PAGE
 ====================================-->
@@ -996,10 +996,8 @@ get_header(); ?>
 <!--End: 4th Section  
     - TESTIMONIAL PAGE
 ====================================-->
-*/ ?>
 
 
-<?php /*
 <div class=" section section-item combine-section hide-overlay overflow dark-background" id="team-section">
     <div class="inner-container team-member dark-background">
         <div class="container">
@@ -1187,8 +1185,6 @@ get_header(); ?>
 <!--End: 5th Section  
     - OUR TEAM PAGE
 ====================================-->
-
-*/ ?>
 
 
 <!--Start: 6th Section  
