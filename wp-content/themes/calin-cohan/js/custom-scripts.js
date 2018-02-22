@@ -240,7 +240,7 @@
 
     /**
      * =============================================
-     * Main Navigarion Button Script
+     * Main Navigation Button Script
      * =============================================
      */
     $('.nav-trigger').on('click', function() {
@@ -477,7 +477,7 @@
         .$owlItems //owl internal $ object containing items
         .eq(this.currentItem)
         .addClass('active');
-     }
+    }
     });
 
 

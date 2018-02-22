@@ -25,9 +25,11 @@
 <script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/bootstrap.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/plagin.js"></script>
 
-<!-- Custom Script 
-==========================================-->
+<!-- Custom JS -->
 <script src="<?php echo get_template_directory_uri(); ?>/js/custom-scripts.js"></script>
+
+<!-- Custom JS 2.0 -->
+<script src="<?php echo get_template_directory_uri(); ?>/js/custom.js"></script>
 
 <?php wp_footer(); ?>
 

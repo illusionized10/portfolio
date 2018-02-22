@@ -94,8 +94,8 @@
                         <li><a class="btn-nav" href="#services-section">professions</a></li>
                         <li><a class="btn-nav" href="#portfolio-section">portfolio</a></li>
                         <li><a class="btn-nav" href="#testimonial-section">testimonials</a></li>
-                        <li><a class="btn-nav" href="#team-section">team</a></li>
-                        <li><a class="btn-nav" href="#contact-us-section">Contact Us</a></li>
+                        <li><a class="btn-nav" href="#team-section">Skills</a></li>
+                        <li><a class="btn-nav" href="#contact-us-section">Contact</a></li>
                     </ul>
                 </div>
 
