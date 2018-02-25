@@ -84,7 +84,15 @@ body .each-services i {
 body .each-services .each-services-inner p {
   font-size: 16px;
   font-weight: 300;
-  color: #b9b9b9; }
+  color: #d2d1d1; }
+body .each-services .each-services-inner .btn {
+  color: #cab3ff; }
+body .inner .view-all-link-mask-text {
+  color: #2fe9e5 !important; }
+body .each-portfolio-heading p.sub-heading {
+  color: #9173d6 !important; }
+body .each-portfolio-heading .inner {
+  color: #2fe9e5 !important; }
 body .project-detail p {
   color: #dcdcdc;
   font-size: 16px;
@@ -99,6 +107,8 @@ body .project-detail a {
   body .project-detail a:hover {
     color: #2fe9e5; }
 body .project-detail .heading {
-  color: #cab3ff !important; }
+  color: #cab3ff !important;
+  line-height: 42px;
+  padding-bottom: 15px; }
 
 /*# sourceMappingURL=custom.css.map */

@@ -61,7 +61,7 @@ get_header(); ?>
                         <div class="navbar-collapse-right" >
                             <ul class="nav navbar-nav navbar-right btn-scroll">
                                 <li>
-                                    <a class="btn-nav btn-mask" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a>
+                                    <a class="btn-nav btn-mask" id="contact-button" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -456,7 +456,7 @@ get_header(); ?>
                                             <div class="line"></div>
                                             <div class="overflow">
                                                 <div class="sub-heading-outer">
-                                                    <p class="sub-heading">BRANDING &AMP; DESIGN</p>
+                                                    <p class="sub-heading">DESIGN &AMP; PROGRAMMING</p>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
@@ -529,8 +529,8 @@ get_header(); ?>
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">BRANDING</p></li>
                                                             <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div> <!-- End: .overflow -->
 
@@ -587,7 +587,7 @@ get_header(); ?>
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/images/features-1.jpg" alt="Features Image">
+                                                <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata.jpg" alt="Features Image">
                                             </div>
                                         </div>
                                     </div>
@@ -597,11 +597,11 @@ get_header(); ?>
                                             <div class="line"></div>
                                             <div class="overflow">
                                                 <div class="sub-heading-outer">
-                                                    <p class="sub-heading">BRANDING &AMP; DESIGN</p>
+                                                    <p class="sub-heading">DESIGN &AMP; PROGRAMMING</p>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">Project Two</div>
+                                                <div class="inner">Pasta Fermentata</div>
                                             </div>
                                         </div>
 
@@ -664,27 +664,27 @@ get_header(); ?>
                                                         
                                                     <div class="overflow">
                                                         <div class="heading-outer">
-                                                            <h2 class="heading">Project Two</h2>
+                                                            <h2 class="heading">Pasta Fermentata</h2>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">BRANDING &AMP; DESIGN</p></li>
-                                                            <li><p class="sub-heading">MARCH 2016</p></li>
+                                                            <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>Having a baby can be a nerve wracking experience for new parents – not the nine months of pregnancy, I’m talking about after the infant is brought home from the hospital. It’s always the same thing, by the time they have their third child they have it all figured out, but with number one it’s a learning thing.</p>
-                                                            <p>Baby monitors help you hear your baby’s needs without you having to be in the room with the baby. Some baby monitors are portable, or “mobile” and are small enough that you can carry it in your pocket as you do your daily chores around the house. Depending on your price range it’s best to have a base unit that plugs into the wall. The receiving unit can be like your portable phone, you can carry it around with you, and plug it back into the base unit to be recharged.</p>
+                                                            <p>Pasta Fermentata is more or less now the main focus of a local bakery based in Kaslo, British Columbia by the name of Kaslo Sourdough. This company sells naturally fermented pasta and required an e-commerce website with customized shipping &amp; pricing rules to fit their company needs. Pasta Fermentata uses Canada Post to ship out their items, thus a shipping calculator was required for their website.</p>
+                                                            <p>Alongside the shipping calculator, a number of other modules were programmed and integrated into the website. Some of these modules include: blog/news reel, custom recipe pages, store/shop locator, automated e-mail forms, search engine optimization &amp; more. This website is a full content management system, which means the administrator can freely edit the content of the website without having programming knowledge. Click below to view the website.</p>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
-                                                            <a href="#" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
+                                                            <a href="http://www.pastafermentata.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
@@ -694,7 +694,7 @@ get_header(); ?>
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/features-2.jpg" alt="Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata-small.jpg" alt="Pasta Fermentata Portfolio Image">
                                                         </div>
                                                     </div>
                                                 </div> <!-- End: RIGHT SIDE -->
@@ -725,7 +725,7 @@ get_header(); ?>
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/images/features-1.jpg" alt="Features Image">
+                                                <img src="<?php echo get_template_directory_uri(); ?>/images/project-southokanagan.jpg" alt="Features Image">
                                             </div>
                                         </div>
                                     </div>
@@ -735,12 +735,12 @@ get_header(); ?>
                                             <div class="line"></div>
                                             <div class="overflow">
                                                 <div class="sub-heading-outer">
-                                                    <p class="sub-heading">BRANDING &AMP; DESIGN</p>
+                                                    <p class="sub-heading">DESIGN &AMP; PROGRAMMING</p>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
                                                 <div class="inner">
-                                                    Project Three
+                                                    South Okanagan Properties
                                                 </div>
                                             </div>
                                         </div>
@@ -751,11 +751,13 @@ get_header(); ?>
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-<!--                                             <div class="link two overflow">
+                                            <!--
+                                             <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
                                                 </div>
-                                            </div> -->
+                                            </div>
+                                            -->
                                             <div class="line hidden-xs"></div>
                                         </div>
                                     </div>
@@ -802,21 +804,21 @@ get_header(); ?>
                                                         
                                                     <div class="overflow">
                                                         <div class="heading-outer">
-                                                            <h2 class="heading">Project Three</h2>
+                                                            <h2 class="heading">South Okanagan Properties</h2>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">BRANDING &AMP; DESIGN</p></li>
-                                                            <li><p class="sub-heading">MARCH 2016</p></li>
+                                                            <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>Having a baby can be a nerve wracking experience for new parents – not the nine months of pregnancy, I’m talking about after the infant is brought home from the hospital. It’s always the same thing, by the time they have their third child they have it all figured out, but with number one it’s a learning thing.</p>
-                                                            <p>Baby monitors help you hear your baby’s needs without you having to be in the room with the baby. Some baby monitors are portable, or “mobile” and are small enough that you can carry it in your pocket as you do your daily chores around the house. Depending on your price range it’s best to have a base unit that plugs into the wall. The receiving unit can be like your portable phone, you can carry it around with you, and plug it back into the base unit to be recharged.</p>
+                                                            <p>South Okanagan Properties is a content management system real estate website with the ability to dynamically collect MLS listings, and have them posted on this respective website. Chris Marte, a real estate agent from the South Okanagan Properties wanted to feature their listings as well as all of the south okanagan listings on their website - the trick here is they wanted their listings to show first.</p>
+                                                            <p>Aside from pulling in data from the MLS, this website has the ability of creating custom house postings, which are outside the MLS. This gives these real estate agents the ability to post private listings on their website which most other real estate websites do not have this ability. Alongside the listings, there is a news reel/blog, automated email forms, and a custom-timeline specifically designed for the companies historical timeline.</p>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
@@ -832,7 +834,7 @@ get_header(); ?>
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/features-2.jpg" alt="Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-southokanagan-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
                                                 </div> <!-- End: RIGHT SIDE -->
@@ -925,12 +927,13 @@ get_header(); ?>
 
                             <!-- SLIDES -->
                             <div class="item">
-
-                                <div class="overflow">
+                                <!--
+                                 <div class="overflow">
                                     <div class="image-outer">
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/1.jpg">
                                     </div>
                                 </div>
+                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“Calin was able to work closely with us and help provide a number of multimedia assets which we were in need of at Hall Tree Farms. The work completed was presented to us in a timely manner and we were very happy with everything done by this creative individual.”</blockquote>
@@ -945,12 +948,13 @@ get_header(); ?>
 
                             </div> <!-- End: .swiper-slider -->
                             <div class="item">
-
-                                <div class="overflow">
+                                <!--
+                                 <div class="overflow">
                                     <div class="image-outer">
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/2.jpg">
                                     </div>
                                 </div>
+                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“The level of professionalism which is portrayed through our website is outstanding. We are very happy with the end product and would recommend working with Calin if you need a modern website. His high level of understanding the web means less headaches for everyone!”</blockquote>
@@ -965,12 +969,13 @@ get_header(); ?>
 
                             </div> <!-- End: .swiper-slider -->
                             <div class="item">
-
+                                <!-- 
                                 <div class="overflow">
                                     <div class="image-outer">
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/2.jpg">
                                     </div>
                                 </div>
+                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“Working with Calin I was able to finally open up my own local start-up and have it truly reflect what I had in mind when it came to starting my own business. The web-design process felt very seamless and easy with someone that knows what they are doing!”</blockquote>

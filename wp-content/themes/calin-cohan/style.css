@@ -1,4 +1,4 @@
-/*!
+/*
 Theme Name: calin-cohan
 Theme URI: http://underscores.me/
 Author: Underscores.me
@@ -475,28 +475,7 @@ textarea {
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
-/*--------------------------------------------------------------
-## Links
---------------------------------------------------------------*/
-a {
-	color: royalblue;
-}
 
-a:visited {
-	color: purple;
-}
-
-a:hover, a:focus, a:active {
-	color: midnightblue;
-}
-
-a:focus {
-	outline: thin dotted;
-}
-
-a:hover, a:active {
-	outline: 0;
-}
 
 /*--------------------------------------------------------------
 ## Menus
