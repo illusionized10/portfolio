@@ -446,7 +446,7 @@ get_header(); ?>
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/images/features-1.jpg" alt="Features Image">
+                                                <img src="<?php echo get_template_directory_uri(); ?>/images/project-bbwebsites.jpg" alt="Features Image">
                                             </div>
                                         </div>
                                     </div>
@@ -460,14 +460,14 @@ get_header(); ?>
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">Project One</div>
+                                                <div class="inner">Big Bear Websites</div>
                                             </div>
                                         </div>
 
                                         <div class="link-list overflow wow">
                                             <div class="link one overflow">
                                                 <div class="inner">
-                                                    <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
+                                                    <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                             <!--
@@ -523,27 +523,30 @@ get_header(); ?>
                                                         
                                                     <div class="overflow">
                                                         <div class="heading-outer">
-                                                            <h2 class="heading">Project One</h2>
+                                                            <h2 class="heading">Big Bear Websites</h2>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">BRANDING &AMP; DESIGN</p></li>
-                                                            <li><p class="sub-heading">MARCH 2016</p></li>
+                                                            <li><p class="sub-heading">BRANDING</p></li>
+                                                            <li><p class="sub-heading">DESIGN</p></li>
                                                         </ul>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>Having a baby can be a nerve wracking experience for new parents – not the nine months of pregnancy, I’m talking about after the infant is brought home from the hospital. It’s always the same thing, by the time they have their third child they have it all figured out, but with number one it’s a learning thing.</p>
-                                                            <p>Baby monitors help you hear your baby’s needs without you having to be in the room with the baby. Some baby monitors are portable, or “mobile” and are small enough that you can carry it in your pocket as you do your daily chores around the house. Depending on your price range it’s best to have a base unit that plugs into the wall. The receiving unit can be like your portable phone, you can carry it around with you, and plug it back into the base unit to be recharged.</p>
+                                                            <p>
+                                                                Big Bear Websites is a division of <a href="http://www.bigbearsoftware.ca" target="_blank">Big Bear Software</a>. They are dedicated to helping businesses with custom website development services be the best they can be by creating unique, responsive websites for companies that are just starting to those with an established presence.</p>
+                                                            <p>
+                                                                This project was a fun project for me because I was able to be as creative as I wanted to be. A custom animation was created for the landing page of this website, it is a mouse cursor integrated animation which follows the user's mouse wherever it's hovered on the introduction panel of the website. Alongside the animation, the design is a modern responsive design which allows for any and all mobile devices to view the website with all elements intact. Feel free to visit the website by clicking on the link below:
+                                                            </p>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
-                                                            <a href="#" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
+                                                            <a href="http://www.bigbearwebsites.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
                                                     </div> <!-- End: .overflow -->
 
@@ -553,7 +556,7 @@ get_header(); ?>
                                                 <div class="col-sm-6 col-xs-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/features-2.jpg" alt="Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-bbwebsites-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
                                                 </div> <!-- End: RIGHT SIDE -->
