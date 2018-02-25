@@ -510,7 +510,7 @@
     var testimonialSlider = $(".testimonial-wrapper"); // client's message
     testimonialSlider.owlCarousel({
       singleItem :        true,
-      autoPlay :          3000,
+      autoPlay :          8500,
       slideSpeed :        500,
       paginationSpeed :   500,
       autoHeight :        false,

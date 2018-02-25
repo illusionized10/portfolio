@@ -110,5 +110,10 @@ body .project-detail .heading {
   color: #cab3ff !important;
   line-height: 42px;
   padding-bottom: 15px; }
+body #team-section #sub-heading {
+  display: block;
+  font-size: 12px;
+  text-transfrom: uppercase;
+  font-family: 'Open Sans', sans-serif; }
 
 /*# sourceMappingURL=custom.css.map */

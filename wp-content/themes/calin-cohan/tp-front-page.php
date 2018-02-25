@@ -168,7 +168,7 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Branding &amp; SEO.</h4>
+                                    <h4 class="title">Marketing &amp; SEO.</h4>
                                 </div>
                             </div>
                             <div class="overflow">
@@ -257,7 +257,7 @@ get_header(); ?>
                             <div class="col-sm-6 col-xs-12">
                                 <div class="features-image-outer">
                                     <div class="image-outer">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/services-1.jpg" alt="Services Image" class="img-responsive">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/web-development.jpg" alt="Services Image" class="img-responsive">
                                     </div>
                                 </div>
                             </div> <!-- End: Features Image Area -->
@@ -271,50 +271,24 @@ get_header(); ?>
                                     </div>
 
                                     <div class="section-title-outer overflow">
-                                        <h3 class="section-title">Strategy.</h3>
+                                        <h3 class="section-title">Web Development.</h3>
                                     </div>
 
                                     <div class="overflow m-b-15">
                                         <div class="title-outer">
-                                            <h6 class="title relative">PERFECT STARATEGY FORYOUR BRAND</h6>
+                                            <h6 class="title relative">The world wide web is a wonderful place.</h6>
                                         </div>
                                     </div>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships.</p>
+                                            <p>A more comprehensive list of tasks to which web development commonly refers, may include web engineering, web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development. </p>
                                         </div>
                                     </div>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-
-                                            <p>During your life you will probably meet some people who seem like they may be the one, or that they are closers, and I thought everything was great, until I started to seriously consider getting married.</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="overflow m-t-15">
-                                        <div class="list-outer">
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-ribbon"></i> Award-winning Strategist
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-search-alt"></i> Extended Research
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-document"></i> Bullet-prof Planning
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-like-alt"></i> Trusted by Thousands
-                                                </div>
-                                            </div>
+                                            <p>Among web professionals, "web development" usually refers to the main non-design aspects of building web sites: writing markup and coding. Most recently Web development has come to mean the creation of content management systems or CMS. These CMS can be made from scratch, proprietary or open source. In broad terms the CMS acts as middleware between the database and the user through the browser. A principle benefit of a CMS is that it allows non-technical people to make changes to their web site without having technical knowledge.</p>
                                         </div>
                                     </div>
 
@@ -342,7 +316,7 @@ get_header(); ?>
                             <div class="col-sm-6 col-xs-12">
                                 <div class="features-image-outer">
                                     <div class="image-outer">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/services-1.jpg" alt="Services Image" class="img-responsive">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/branding-seo.jpg" alt="Services Image" class="img-responsive">
                                     </div>
                                 </div>
                             </div> <!-- End: Features Image Area -->
@@ -356,7 +330,7 @@ get_header(); ?>
                                     </div>
 
                                     <div class="section-title-outer overflow">
-                                        <h3 class="section-title">Strategy.</h3>
+                                        <h3 class="section-title">Marketing &amp; SEO</h3>
                                     </div>
 
                                     <div class="overflow m-b-15">
@@ -367,39 +341,13 @@ get_header(); ?>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships.</p>
+                                            <p>Search engine optimization (SEO) is the process of affecting the online visibility of a website or a web page in a web search engine's unpaid results—often referred to as "natural", "organic", or "earned" results. In general, the earlier (or higher ranked on the search results page), and more frequently a website appears in the search results list, the more visitors it will receive from the search engine's users; these visitors can then be converted into customers. SEO may target different kinds of search, including image search, video search, academic search,[2] news search, and industry-specific vertical search engines.</p>
                                         </div>
                                     </div>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-
-                                            <p>During your life you will probably meet some people who seem like they may be the one, or that they are closers, and I thought everything was great, until I started to seriously consider getting married.</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="overflow m-t-15">
-                                        <div class="list-outer">
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-ribbon"></i> Award-winning Strategist
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-search-alt"></i> Extended Research
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-document"></i> Bullet-prof Planning
-                                                </div>
-                                            </div>
-                                            <div class="list col-sm-6">
-                                                <div class="row">
-                                                    <i class="icon icon-icon-like-alt"></i> Trusted by Thousands
-                                                </div>
-                                            </div>
+                                            <p>SEO differs from local search engine optimization in that the latter is focused on optimizing a business' online presence so that its web pages will be displayed by search engines when a user enters a local search for its products or services. The former instead is more focused on national or international searches.</p>
                                         </div>
                                     </div>
 
@@ -1024,6 +972,7 @@ get_header(); ?>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
                             <h2 class="section-heading wow">Programming &amp; Design Related</h2>
+                            <h2 id="sub-heading" class="section-heading wow">* tap or hover to reveal text *</h2>
                         </div>
                     </div>
                 </div>
@@ -1047,7 +996,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>My love and interest for HTML started way back in my 9th grade in high school. Ever since the first introduction to web course, I have been always learning and reading about how I can improve my working knowledge of HTML. HTML is a constantly changing and evolving language, and I love keeping up with it.</p>
                                 </div>
 
                             </div>
@@ -1065,7 +1014,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>Alongside with my introduction to HTML, I essentially learned how to write cascading stylesheets (CSS) hand-in-hand with my HTML courses. The ability to create custom styles which supports the markup language used for front-end purposes made my passion for the web industry even stronger.</p>
                                 </div>
 
                             </div>
@@ -1083,7 +1032,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>I started writing JavaScript also in high school with some introduction courses, which eventually led to teaching myself how to program custom macros for a video game using colour detection methods from a widely used JavaScript library. Since that project, I've never looked away from JavaScript.</p>
                                 </div>
 
                             </div>
@@ -1101,7 +1050,25 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>My introduction to PHP was more or less a love-hate relationship since most of the languages I knew at this time were not server-side languages. The learning curve was rather steep, however after being introducted to WordPress, learning PHP almost felt like it was a must.</p>
+                                </div>
+
+                            </div>
+                        </div> <!-- End: .each-item -->
+                        <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
+                            <div class="item-inner overflow absolute">
+
+                                <div class="profile-outer center">
+                                    <div class="profile-image">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/aspnet-icon.png" alt="Team Member" class="">
+                                    </div>
+                                    <div class="profile-content">
+                                        <span class="name">ASP.NET</span>
+                                        <span class="position">5+ years of experience</span>
+                                    </div>
+                                </div>
+                                <div class="content-detail">
+                                    <p>ASP.NET is a programming language which I realized I had to learn if I wanted to work on MVC based applications. Microsoft's development platform Azure is a wonderful tool for developing such applications. Learning how to create these applications taught me just how important software architecture can be.</p>
                                 </div>
 
                             </div>
@@ -1119,7 +1086,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>Photoshop was a program that I personally always loved. I never have been able to be as creative on paper than I was with a computer, this program enabled me to do so. Numerous tutorials, articles, and personal projects led me to my passion with web design, and this software made it possible.</p>
                                 </div>
 
                             </div>
@@ -1137,7 +1104,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>Illustrator somewhat fell into my hands after I had been working in the industry for a few years. The use of vector graphics are being used more and more widely throughout the web. Thus, learning how to create and generate vector graphics with Illustrator is essential for any professional graphic designer.</p>
                                 </div>
 
                             </div>
@@ -1155,25 +1122,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
-                                </div>
-
-                            </div>
-                        </div> <!-- End: .each-item -->
-                        <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
-                            <div class="item-inner overflow absolute">
-
-                                <div class="profile-outer center">
-                                    <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/8.jpg" alt="Team Member" class="">
-                                    </div>
-                                    <div class="profile-content">
-                                        <span class="name">ANTHONY WATKINS</span>
-                                        <span class="position">VP of Product, VISA</span>
-                                    </div>
-                                </div>
-                                <div class="content-detail">
-                                    <p>Vincent is the Founder &amp; CEO of Fusion. He is leading  the company to success with his experience &amp; skill. Leader piverate paradigm cortado ship it integrate Space Team parallax persons grok. Parallax food truck fund 360 campaign venture capital pitch deck actionable insight innovate.</p>
+                                    <p>InDesign more or less follows the same pattern and trend as my knowledge for Illustrator. Learning how to use a program that is focused on print materials is somewhat essential for myself, especially since I wanted to be able to print my own business cards. InDesign makes generating text-based graphics a breeze.</p>
                                 </div>
 
                             </div>
