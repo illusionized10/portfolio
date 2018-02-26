@@ -341,7 +341,7 @@ get_header(); ?>
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>Search engine optimization (SEO) is the process of affecting the online visibility of a website or a web page in a web search engine's unpaid results—often referred to as "natural", "organic", or "earned" results. In general, the earlier (or higher ranked on the search results page), and more frequently a website appears in the search results list, the more visitors it will receive from the search engine's users; these visitors can then be converted into customers. SEO may target different kinds of search, including image search, video search, academic search,[2] news search, and industry-specific vertical search engines.</p>
+                                            <p>Search engine optimization (SEO) is the process of affecting the online visibility of a website or a web page in a web search engine's unpaid results—often referred to as "natural", "organic", or "earned" results. In general, the earlier (or higher ranked on the search results page), and more frequently a website appears in the search results list, the more visitors it will receive from the search engine's users; these visitors can then be converted into customers. SEO may target different kinds of search, including image search, video search, academic search, news search, and industry-specific vertical search engines.</p>
                                         </div>
                                     </div>
 
@@ -1174,83 +1174,14 @@ get_header(); ?>
 
                     <div class="clearfix"></div>
 
-                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
-                        <div class="row single-form-outer wow">
-                            
-                            <form id="contact-form" method="post" class="dark-background single-form" action="php/sendmail.php">
+                    <div class="custom-contact-form">
+                        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
+                            <div class="row single-form-outer wow">
+                                <?php echo do_shortcode('[contact-form-7 id="10" title="Contact Form"]'); ?>
+                            </div> <!-- /#testimonials-1 -->
+                        </div> <!-- End: .col-xs-12 -->
+                    </div>
 
-                                <div class="message col-xs-12">
-                                    <p class="email-loading"><img src="<?php echo get_template_directory_uri(); ?>/images/loading.gif" alt="">&nbsp;&nbsp;&nbsp;Sending...</p>
-                                    <p class="email-success"><i class="icon icon-icon-check-alt2"></i> Your quote has successfully been sent.</p>
-                                    <p class="email-failed"><i class="icon icon-icon-close-alt2"></i> Something went wrong!</p>
-                                </div>
-
-                                
-                                <div class="col-sm-6 col-xs-12">
-                                    <div class="input-outer">
-                                        <div class="group relative">
-                                            <input name="name" class="contact-name form-control" id="contact-name" type="text"  required="">
-                                            <label class="input-label" for="contact-name">
-                                                <span class="label-text">YOUR NAME</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-sm-6 col-xs-12">
-                                    <div class="input-outer ">
-                                        <div class="group relative">
-                                            <input name="name" class="contact-email form-control" id="contact-email" type="email"  required="">
-                                            <label class="input-label" for="contact-email">
-                                                <span class="label-text">YOUR EMAIL</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-sm-6 col-xs-12">
-                                    <div class="input-outer ">
-                                        <div class="group relative">
-                                            <input name="name" class="contact-company form-control" id="contact-company" type="text"  required="">
-                                            <label class="input-label" for="contact-company">
-                                                <span class="label-text">COMPANY</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-sm-6 col-xs-12">
-                                    <div class="input-outer ">
-                                        <div class="group relative">
-                                            <input name="name" class="contact-subject form-control" id="contact-subject" type="text"  required="">
-                                            <label class="input-label" for="contact-subject">
-                                                <span class="label-text">SUBJECT</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-xs-12">
-                                    <div class="input-outer ">
-                                        <div class="group relative">
-                                            <textarea class="contact-message form-control" id="contact-message" rows="3" required=""></textarea>
-                                            <label class="input-label" for="contact-message">
-                                                <span class="label-text">YOUR MESSAGE</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!-- Subject Button -->
-                                <div class="btn-form text-center col-xs-12">
-                                    <div class="button-outer relative">
-                                        <button class="btn btn-fill right-icon">GET IN TOUCH <i class="icon icon-arrow-right"></i></button>
-                                    </div>
-                                </div>
-                            </form>
-
-                        </div> <!-- /#testimonials-1 -->
-                    </div> <!-- End: .col-xs-12 -->
 
                     <div class="clearfix"></div>
 

@@ -125,7 +125,7 @@
 
 -------------------------------------------------------------------*/
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: rgba(255, 255, 255, 0.9);
 	font-size: 14px;
 	font-style: none;
@@ -147,7 +147,7 @@ a {
 	text-decoration: none !important;
 	display: inline-block;
 	cursor: pointer;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	background-color: transparent;
 	padding: 0;
 	color: #ffffff;
@@ -225,7 +225,7 @@ a:focus {
   left: 0;
 }
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #9c9c9c;
   font-size: 14px;
   margin-bottom: 27px;
@@ -257,13 +257,13 @@ h4 {
   font-weight: 400;
 }
 h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   line-height: 38px;
   font-weight: 600;
 }
 h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   line-height: 34px;
   font-weight: 600;
@@ -289,7 +289,7 @@ h6 {
   font-weight: 400;
 }
 .sub-heading {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 14px;
   line-height: 40px;
   font-weight: 600;
@@ -400,7 +400,7 @@ section.section {
  * ===============================
  */
 .btn {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   -o-border-radius: 0 0 0 0 ;
   -ms-border-radius: 0 0 0 0 ;
   -moz-border-radius: 0 0 0 0 ;
@@ -4227,7 +4227,7 @@ section.section {
 #fp-nav ul li .fp-tooltip {
   left: 0 !important;
   top: 3px !important;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 22px;

@@ -20,6 +20,8 @@
     <!-- GOOGLE FONTS -->
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,700,900" rel="stylesheet">
+
 
     <!-- FavIcon -->
     <link rel='shortcut icon' type='image/x-icon' href='<?php echo get_template_directory_uri(); ?>/images/favicon.png' />
