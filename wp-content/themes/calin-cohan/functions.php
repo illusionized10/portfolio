@@ -156,3 +156,6 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 
 // Remove Admin Bar
 add_filter('show_admin_bar', '__return_false');
+
+// Stop Debugging
+define( 'WP_DEBUG', false );

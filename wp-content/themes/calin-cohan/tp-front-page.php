@@ -862,7 +862,7 @@ get_header(); ?>
                             <li><a href="http://halltreefarms.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/halltreefarms.png" alt="Hall Tree Farms"></a></li>
                             <li><a href="http://surveylife.software/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/surveyLife.png" alt="Survey Life"></a></li>
                             <li><a href="https://www.okanagancelebrations.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/marteLogo.png" alt="South Okanagan Properties"></a></li>
-                            <li><a href="http://www.in-toronto-web-design.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/okanaganCelebrations.png" alt="Geekpower Web Design"></a></li>
+                            <li><a href="http://www.in-toronto-web-design.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/okanagancelebrations.png" alt="Okanagan Celebrations"></a></li>
                             <li><a href="http://www.pastafermentata.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/pastaFermentata.png" alt=""></a></li>
                         </ul>
 
@@ -1177,7 +1177,7 @@ get_header(); ?>
                     <div class="custom-contact-form">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                             <div class="row single-form-outer wow">
-                                <?php echo do_shortcode('[contact-form-7 title="Contact Form"]'); ?>
+                                <?php echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
                             </div> <!-- /#testimonials-1 -->
                         </div> <!-- End: .col-xs-12 -->
                     </div>
