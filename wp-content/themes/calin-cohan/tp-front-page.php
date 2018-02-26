@@ -1177,7 +1177,7 @@ get_header(); ?>
                     <div class="custom-contact-form">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                             <div class="row single-form-outer wow">
-                                <?php echo do_shortcode('[contact-form-7 id="10" title="Contact Form"]'); ?>
+                                <?php echo do_shortcode('[contact-form-7 title="Contact Form"]'); ?>
                             </div> <!-- /#testimonials-1 -->
                         </div> <!-- End: .col-xs-12 -->
                     </div>
