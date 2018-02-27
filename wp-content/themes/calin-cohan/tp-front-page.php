@@ -429,6 +429,7 @@ get_header(); ?>
                                         </div>
                                     </div>
 
+                                    <!-- 
                                     <div class="col-md-10 col-md-offset-1 col-sm-12 slider-outer">
                                         <div class="overflow">
                                             <div class="slider text-center">
@@ -461,6 +462,7 @@ get_header(); ?>
                                             </div>
                                         </div>
                                     </div>
+                                    -->
 
                                     <div class="col-xs-12 project-detail-outer">
                                             
