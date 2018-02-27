@@ -10,6 +10,10 @@ body {
 		background: #cab3ff ; /* Gecko Browsers */
 	}
 
+	p {
+		color:#e0e0e0 !important;
+	}
+
    .g-recaptcha {
 	    margin: 15px auto !important;
 	    width: auto !important;
@@ -67,6 +71,9 @@ body {
 		}
 	}
 
+	.testimonial-section .testimonial-wrapper .item blockquote {
+		color:#e0e0e0 !important;
+	}
 
 	// Introduction Section
 	.home-content-outer {
@@ -76,14 +83,21 @@ body {
 		    font-weight: 400;
 		}
 		.list-view {
+			display:none;
+			@include breakpoint(sm){
+				display:block;
+			}
 			ul.nav {
 				li {
 					a {
 						color:#ffffff;
 						font-size:18px;
-						letter-spacing:3px;
+						letter-spacing:0px;
 						text-transform:uppercase;
 						font-weight:300;
+						@include breakpoint(lg) {
+							letter-spacing:3px;
+						}
 					}
 				}
 			}	
@@ -105,6 +119,13 @@ body {
 			line-height:32px;
 		}
 		.each-services-inner {
+			h4 {
+				line-height:40px;
+				@include breakpoint(md) {
+					line-height:65px;
+				}
+				
+			}
 			p {
 				font-size:16px;
 				font-weight:300;

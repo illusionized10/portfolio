@@ -65,6 +65,8 @@ body {
   body ::-moz-selection {
     background: #cab3ff;
     /* Gecko Browsers */ }
+  body p {
+    color: #e0e0e0 !important; }
   body .g-recaptcha {
     margin: 15px auto !important;
     width: auto !important;
@@ -108,16 +110,26 @@ body {
     margin-bottom: 0px;
     letter-spacing: 2px;
     font-weight: 300; }
+  body .testimonial-section .testimonial-wrapper .item blockquote {
+    color: #e0e0e0 !important; }
   body .home-content-outer h1.heading {
     font-size: 40px;
     color: #ffffff;
     font-weight: 400; }
-  body .home-content-outer .list-view ul.nav li a {
-    color: #ffffff;
-    font-size: 18px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-weight: 300; }
+  body .home-content-outer .list-view {
+    display: none; }
+    @media (min-width: 768px) {
+      body .home-content-outer .list-view {
+        display: block; } }
+    body .home-content-outer .list-view ul.nav li a {
+      color: #ffffff;
+      font-size: 18px;
+      letter-spacing: 0px;
+      text-transform: uppercase;
+      font-weight: 300; }
+      @media (min-width: 1200px) {
+        body .home-content-outer .list-view ul.nav li a {
+          letter-spacing: 3px; } }
   body .services-content-outer .pera-outer p {
     font-size: 16px !important;
     color: #d6d6d6 !important;
@@ -126,6 +138,11 @@ body {
     color: #2fe9e5;
     font-size: 32px;
     line-height: 32px; }
+  body .each-services .each-services-inner h4 {
+    line-height: 40px; }
+    @media (min-width: 992px) {
+      body .each-services .each-services-inner h4 {
+        line-height: 65px; } }
   body .each-services .each-services-inner p {
     font-size: 16px;
     font-weight: 300;
