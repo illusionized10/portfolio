@@ -10,5 +10,32 @@ $( document ).ready(function() {
 	        }, 2000);
 	    }
 	);
+
+    $('#introduction-navigation a').on('click', function (e) {
+    	//Stop page from doing default shit
+      	e.preventDefault();
+      	//Get content panel ID from clicked element
+      	var contentPanelId = $(this).attr("href");
+      	//Animate to clicked element
+		$('html, body').stop().animate({
+			scrollTop: $(contentPanelId).offset().top
+		}, 900, 'swing', function () {
+			window.location.hash = target;
+		});
+
+    });
+
+    $('.each-services-inner a').on('click', function (e) {
+    	//Stop page from doing default shit
+      	e.preventDefault();
+
+    	var contentPanelId = "services-section";
+		$('html, body').stop().animate({
+			scrollTop: $(contentPanelId).offset().top
+		}, 900, 'swing', function () {
+			window.location.hash = target;
+		});
+
+	});
 	
 });

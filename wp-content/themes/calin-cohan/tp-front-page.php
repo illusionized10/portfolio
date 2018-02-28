@@ -30,10 +30,10 @@ get_header(); ?>
 
                         <div class="overflow m-t-30">
                             <div class="list-view">
-                                <ul class="nav">
-                                    <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;UX DESIGN&nbsp;&nbsp;&nbsp;</a></li>
-                                    <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;WEB DEVELOPMENT&nbsp;&nbsp;&nbsp;</a></li>
-                                    <li><a class="btn-mask" href="#">&nbsp;&nbsp;&nbsp;BRANDING &amp; SEO&nbsp;&nbsp;&nbsp;</a></li>
+                                <ul class="nav" id="introduction-navigation">
+                                    <li><a class="btn-mask" href="#services-section">&nbsp;&nbsp;&nbsp;UX DESIGN&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a class="btn-mask" href="#services-section">&nbsp;&nbsp;&nbsp;WEB DEVELOPMENT&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a class="btn-mask" href="#services-section">&nbsp;&nbsp;&nbsp;MARKETING &amp; SEO&nbsp;&nbsp;&nbsp;</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -54,8 +54,11 @@ get_header(); ?>
                 <!-- NAVIGATION -->
                 <nav class="navbar navbar-fixed-top main-navbar-top home-nav overflow">
                     <div class="container relative home-nav-inner">
+                        
                         <div class="navbar-header">
-                            <a class="navbar-brand light-logo" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo-icon.png" alt="" class="img-responsive"></a>
+                            <a class="navbar-brand light-logo" href="#">
+                                <img src="<?php echo get_template_directory_uri(); ?>/images/logo-icon.png" alt="" class="img-responsive">
+                            </a>
                         </div>
 
                         <div class="navbar-collapse-right" >
