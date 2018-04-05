@@ -30,28 +30,12 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,700,900" rel="stylesheet">
 
-
     <!-- FavIcon -->
     <link rel='shortcut icon' type='image/x-icon' href='<?php echo get_template_directory_uri(); ?>/images/favicon.png' />
 
-    <!-- FontAwesome -->
-    <link href="<?php echo get_template_directory_uri(); ?>/css/all.css" rel="stylesheet">
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.min.css">
-
-    <!-- Owl Carousel -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/owl.carousel.css">
-
-    <!-- Icons -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/icons/rik-icons/styles.css">
 
     <!-- Custom CSS  -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive.css">
 
-    <!-- Custom Stylesheet Overrides -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
 
     <?php wp_head(); ?>
 </head>

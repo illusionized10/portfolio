@@ -204,7 +204,7 @@ get_header(); ?>
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/services-1.jpg" alt="Services Image" class="img-responsive">
                                     </div>
                                 </div>
-                            </div> <!-- End: Features Image Area -->
+                            </div> <!-- Features Image Area -->
 
                             <!-- Content Area -->
                             <div class="col-sm-6 col-xs-12">
@@ -242,16 +242,16 @@ get_header(); ?>
                                         </div>
                                     </div>
 
-                                </div> <!-- End: .services-content-outer -->
-                            </div> <!-- End: Content Area -->
+                                </div> <!-- .services-content-outer -->
+                            </div> <!-- Content Area -->
                             
                             <!-- Button Area -->
                             <div class="back-button-outer overflow">  
                                 <a href="#" class="btn btn-services-back btn-mask"><i class="icon icon-arrow-carrot-left-alt2"></i></a>
                             </div>
 
-                        </div> <!-- End: .services-inner -->
-                    </div> <!-- End: .services-details -->
+                        </div> <!-- .services-inner -->
+                    </div> <!-- .services-details -->
 
                     <div class="services-details" id="services-2">
                         <div class="services-inner relative overflow">
@@ -263,7 +263,7 @@ get_header(); ?>
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/web-development.jpg" alt="Services Image" class="img-responsive">
                                     </div>
                                 </div>
-                            </div> <!-- End: Features Image Area -->
+                            </div> <!-- Features Image Area -->
 
                             <!-- Content Area -->
                             <div class="col-sm-6 col-xs-12">
@@ -301,16 +301,16 @@ get_header(); ?>
                                         </div>
                                     </div>
 
-                                </div> <!-- End: .services-content-outer -->
-                            </div> <!-- End: Content Area -->
+                                </div> <!-- .services-content-outer -->
+                            </div> <!-- Content Area -->
                             
                             <!-- Button Area -->
                             <div class="back-button-outer overflow">  
                                 <a href="#" class="btn btn-services-back btn-mask"><i class="icon icon-arrow-carrot-left-alt2"></i></a>
                             </div>
 
-                        </div> <!-- End: .services-inner -->
-                    </div> <!-- End: .services-details -->
+                        </div> <!-- .services-inner -->
+                    </div> <!-- .services-details -->
 
                     <div class="services-details" id="services-3">
                         <div class="services-inner relative overflow">
@@ -322,7 +322,7 @@ get_header(); ?>
                                         <img src="<?php echo get_template_directory_uri(); ?>/images/branding-seo.jpg" alt="Services Image" class="img-responsive">
                                     </div>
                                 </div>
-                            </div> <!-- End: Features Image Area -->
+                            </div> <!-- Features Image Area -->
 
                             <!-- Content Area -->
                             <div class="col-sm-6 col-xs-12">
@@ -360,23 +360,23 @@ get_header(); ?>
                                         </div>
                                     </div>
 
-                                </div> <!-- End: .services-content-outer -->
-                            </div> <!-- End: Content Area -->
+                                </div> <!-- .services-content-outer -->
+                            </div> <!-- Content Area -->
                             
                             <!-- Button Area -->
                             <div class="back-button-outer overflow">  
                                 <a href="#" class="btn btn-services-back btn-mask"><i class="icon icon-arrow-carrot-left-alt2"></i></a>
                             </div>
 
-                        </div> <!-- End: .services-inner -->
-                    </div> <!-- End: .services-details -->
+                        </div> <!-- .services-inner -->
+                    </div> <!-- .services-details -->
 
                 </div>
-                <!-- End: Each Services Part Full Detail -->
+                <!-- Each Services Part Full Detail -->
 
-            </div> <!-- End: .row -->
-        </div> <!-- End: .container -->
-    </div> <!-- End: . -->
+            </div> <!-- .row -->
+        </div> <!-- .container -->
+    </div> <!-- . -->
 </div>
 
 <div class=" section section-item dark-background" id="portfolio-section">
@@ -478,14 +478,14 @@ get_header(); ?>
                                                         <div class="heading-outer">
                                                             <h2 class="heading">Big Bear Websites</h2>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
                                                             <li><p class="sub-heading">DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
@@ -495,15 +495,15 @@ get_header(); ?>
                                                                 This project was a fun project for me because I was able to be as creative as I wanted to be. A custom animation was created for the landing page of this website, it is a mouse cursor integrated animation which follows the user's mouse wherever it's hovered on the introduction panel of the website. Alongside the animation, the design is a modern responsive design which allows for any and all mobile devices to view the website with all elements intact. Feel free to visit the website by clicking on the link below:
                                                             </p>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
                                                             <a href="http://www.bigbearwebsites.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
-                                                </div> <!-- End: END LEFT SIDE -->
+                                                </div> <!-- END LEFT SIDE -->
 
                                                 <!-- Right side Image -->
                                                 <div class="col-sm-6 col-xs-12 vertical-middle overflow project-detail-image">
@@ -512,9 +512,9 @@ get_header(); ?>
                                                             <img src="<?php echo get_template_directory_uri(); ?>/images/project-bbwebsites-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
-                                                </div> <!-- End: RIGHT SIDE -->
+                                                </div> <!-- RIGHT SIDE -->
 
-                                            </div> <!-- End: .project-detail-content -->
+                                            </div> <!-- .project-detail-content -->
 
                                             <div class="clearfix"></div>
                                             
@@ -524,15 +524,15 @@ get_header(); ?>
                                                     <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
                                                 </div>
                                             </div>
-                                            <!-- End: Back Button Area -->
+                                            <!-- Back Button Area -->
 
-                                        </div> <!-- End: .project-detail -->
+                                        </div> <!-- .project-detail -->
 
-                                    </div> <!-- End: .col-xs-12 -->
+                                    </div> <!-- .col-xs-12 -->
 
                                 </div> 
 
-                            </div> <!-- End: .item -->
+                            </div> <!-- .item -->
                             <div class="item ">
                                 
                                 <div class="porifolio-section overflow">
@@ -621,29 +621,29 @@ get_header(); ?>
                                                         <div class="heading-outer">
                                                             <h2 class="heading">Pasta Fermentata</h2>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
                                                             <li><p class="sub-heading">DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
                                                             <p>Pasta Fermentata is more or less now the main focus of a local bakery based in Kaslo, British Columbia by the name of Kaslo Sourdough. This company sells naturally fermented pasta and required an e-commerce website with customized shipping &amp; pricing rules to fit their company needs. Pasta Fermentata uses Canada Post to ship out their items, thus a shipping calculator was required for their website.</p>
                                                             <p>Alongside the shipping calculator, a number of other modules were programmed and integrated into the website. Some of these modules include: blog/news reel, custom recipe pages, store/shop locator, automated e-mail forms, search engine optimization &amp; more. This website is a full content management system, which means the administrator can freely edit the content of the website without having programming knowledge. Click below to view the website.</p>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
                                                             <a href="http://www.pastafermentata.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
-                                                </div> <!-- End: END LEFT SIDE -->
+                                                </div> <!-- END LEFT SIDE -->
 
                                                 <!-- Right side Image -->
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
@@ -652,9 +652,9 @@ get_header(); ?>
                                                             <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata-small.jpg" alt="Pasta Fermentata Portfolio Image">
                                                         </div>
                                                     </div>
-                                                </div> <!-- End: RIGHT SIDE -->
+                                                </div> <!-- RIGHT SIDE -->
 
-                                            </div> <!-- End: .project-detail-content -->
+                                            </div> <!-- .project-detail-content -->
 
                                             <div class="clearfix"></div>
                                             
@@ -664,15 +664,15 @@ get_header(); ?>
                                                     <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
                                                 </div>
                                             </div>
-                                            <!-- End: Back Button Area -->
+                                            <!-- Back Button Area -->
 
-                                        </div> <!-- End: .project-detail -->
+                                        </div> <!-- .project-detail -->
 
-                                    </div> <!-- End: .col-xs-12 -->
+                                    </div> <!-- .col-xs-12 -->
 
                                 </div> 
 
-                            </div> <!-- End: .item -->
+                            </div> <!-- .item -->
                             <div class="item ">
                                 
                                 <div class="porifolio-section overflow">
@@ -763,29 +763,29 @@ get_header(); ?>
                                                         <div class="heading-outer">
                                                             <h2 class="heading">South Okanagan Properties</h2>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
                                                             <li><p class="sub-heading">DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
                                                             <p>South Okanagan Properties is a content management system real estate website with the ability to dynamically collect MLS listings, and have them posted on this respective website. Chris Marte, a real estate agent from the South Okanagan Properties wanted to feature their listings as well as all of the south okanagan listings on their website - the trick here is they wanted their listings to show first.</p>
                                                             <p>Aside from pulling in data from the MLS, this website has the ability of creating custom house postings, which are outside the MLS. This gives these real estate agents the ability to post private listings on their website which most other real estate websites do not have this ability. Alongside the listings, there is a news reel/blog, automated email forms, and a custom-timeline specifically designed for the companies historical timeline.</p>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
                                                             <a href="#" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
-                                                    </div> <!-- End: .overflow -->
+                                                    </div> <!-- .overflow -->
 
-                                                </div> <!-- End: END LEFT SIDE -->
+                                                </div> <!-- END LEFT SIDE -->
 
                                                 <!-- Right side Image -->
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
@@ -794,9 +794,9 @@ get_header(); ?>
                                                             <img src="<?php echo get_template_directory_uri(); ?>/images/project-southokanagan-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
-                                                </div> <!-- End: RIGHT SIDE -->
+                                                </div> <!-- RIGHT SIDE -->
 
-                                            </div> <!-- End: .project-detail-content -->
+                                            </div> <!-- .project-detail-content -->
 
                                             <div class="clearfix"></div>
                                             
@@ -806,34 +806,26 @@ get_header(); ?>
                                                     <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
                                                 </div>
                                             </div>
-                                            <!-- End: Back Button Area -->
+                                            <!-- Back Button Area -->
 
-                                        </div> <!-- End: .project-detail -->
+                                        </div> <!-- .project-detail -->
 
-                                    </div> <!-- End: .col-xs-12 -->
+                                    </div> <!-- .col-xs-12 -->
 
                                 </div> 
 
-                            </div> <!-- End: .item -->
+                            </div> <!-- .item -->
 
-                        </div> <!-- End: .swiper-wrapper -->
-                    </div> <!-- End: .testimonials-container -->
-                </div> <!-- End: .col-xs-12 -->
+                        </div> <!-- .swiper-wrapper -->
+                    </div> <!-- .testimonials-container -->
+                </div> <!-- col-xs-12 -->
 
-            </div> <!-- End: .row -->
-        </div> <!-- End: .container -->
-    </div> <!-- End: .inner-container -->
+            </div> <!-- .row -->
+        </div> <!-- .container -->
+    </div> <!-- .inner-container -->
 </div>
-<!--End: 3rd Section  
-    - Portfolio PAGE
-====================================-->
-
-
-
-
-<!--Start: 4th Section  
-    - TESTIMONIAL PAGE
-====================================-->
+ 
+<!-- TESTIMONIALS -->
 <div class=" section section-item combine-section hide-overlay semi-dark-background" id="testimonial-section">
     <div class="inner-container testimonial-section semi-dark-background" id="testimonial">
          <div class="container">
@@ -857,7 +849,7 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <!-- End: Section Heading -->
+                <!--  Section Heading -->
 
                 <div class="clearfix"></div>
 
@@ -875,8 +867,8 @@ get_header(); ?>
                             <li><a href="http://www.pastafermentata.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/pastaFermentata.png" alt=""></a></li>
                         </ul>
 
-                    </div> <!-- End: .overflow -->
-                </div> <!-- End: .col-xs-12 -->
+                    </div> <!--  .overflow -->
+                </div> <!--  .col-xs-12 -->
 
                 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                     <div class="testimonial-container wow">
@@ -903,7 +895,7 @@ get_header(); ?>
                                     </div>
                                 </div>
 
-                            </div> <!-- End: .swiper-slider -->
+                            </div> <!--  .swiper-slider -->
                             <div class="item">
                                 <!--
                                  <div class="overflow">
@@ -924,7 +916,7 @@ get_header(); ?>
                                     </div>
                                 </div>
 
-                            </div> <!-- End: .swiper-slider -->
+                            </div> <!--  .swiper-slider -->
                             <div class="item">
                                 <!-- 
                                 <div class="overflow">
@@ -945,18 +937,18 @@ get_header(); ?>
                                     </div>
                                 </div>
 
-                            </div> <!-- End: .swiper-slider -->
+                            </div> <!--  .swiper-slider -->
 
-                        </div> <!-- End: .swiper-wrapper -->
-                    </div> <!-- End: .testimonials-container -->
-                </div> <!-- End: .col-xs-12 -->
+                        </div> <!--  .swiper-wrapper -->
+                    </div> <!--  .testimonials-container -->
+                </div> <!--  .col-xs-12 -->
 
-            </div> <!-- End: .row -->
-        </div> <!-- End: .container -->
-    </div> <!-- End: .inner-container -->
+            </div> <!--  .row -->
+        </div> <!--  .container -->
+    </div> <!--  .inner-container -->
 
 </div>
-<!--End: 4th Section  
+<!-- 4th Section  
     - TESTIMONIAL PAGE
 ====================================-->
 
@@ -985,7 +977,7 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <!-- End: Section Heading -->
+                <!--  Section Heading -->
 
                 <div class="clearfix"></div>
 
@@ -1009,7 +1001,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1027,7 +1019,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1045,7 +1037,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1063,7 +1055,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1081,7 +1073,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1099,7 +1091,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1117,7 +1109,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1135,18 +1127,18 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!-- End: .each-item -->
+                        </div> <!--  .each-item -->
 
 
                     </div>
-                </div> <!-- End: .col-xs-12 -->
+                </div> <!--  .col-xs-12 -->
 
-            </div> <!-- End: .row -->
-        </div> <!-- End: .container -->
-    </div> <!-- End: .inner-container -->
+            </div> <!--  .row -->
+        </div> <!--  .container -->
+    </div> <!--  .inner-container -->
 
 </div>
-<!--End: 5th Section  
+<!-- 5th Section  
     - OUR TEAM PAGE
 ====================================-->
 
@@ -1179,24 +1171,24 @@ get_header(); ?>
                             </div>
                         </div>
                     </div>
-                    <!-- End: Section Heading -->
+                    <!--  Section Heading -->
 
                     <div class="clearfix"></div>
 
                     <div class="custom-contact-form">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                             <div class="row single-form-outer wow">
-                                <?php echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
-                            </div> <!-- /#testimonials-1 -->
-                        </div> <!-- End: .col-xs-12 -->
+                                <?php //echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
+                            </div>
+                        </div> <!--  .col-xs-12 -->
                     </div>
 
 
                     <div class="clearfix"></div>
 
-                </div> <!-- End: .row -->
-            </div> <!-- End: .container -->
-        </div> <!-- End: .inner-container -->
+                </div> <!--  .row -->
+            </div> <!--  .container -->
+        </div> <!--  .inner-container -->
     </div>
 </div>
 
