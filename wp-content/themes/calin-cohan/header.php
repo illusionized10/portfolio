@@ -33,10 +33,6 @@
     <!-- FavIcon -->
     <link rel='shortcut icon' type='image/x-icon' href='<?php echo get_template_directory_uri(); ?>/images/favicon.png' />
 
-
-    <!-- Custom CSS  -->
-
-
     <?php wp_head(); ?>
 </head>
 

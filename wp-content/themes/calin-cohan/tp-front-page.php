@@ -845,7 +845,7 @@ get_header(); ?>
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
-                            <h2 class="section-heading wow">I have been lucky to work with some amazing companies</h2>
+                            <h2 class="section-heading wow">I have been lucky to work with some awesome companies</h2>
                         </div>
                     </div>
                 </div>
@@ -863,8 +863,8 @@ get_header(); ?>
                             <li><a href="http://halltreefarms.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/halltreefarms.png" alt="Hall Tree Farms"></a></li>
                             <li><a href="http://surveylife.software/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/surveyLife.png" alt="Survey Life"></a></li>
                             <li><a href="https://www.okanagancelebrations.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/marteLogo.png" alt="South Okanagan Properties"></a></li>
-                            <li><a href="http://www.in-toronto-web-design.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/okanagancelebrations.png" alt="Okanagan Celebrations"></a></li>
-                            <li><a href="http://www.pastafermentata.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/pastaFermentata.png" alt=""></a></li>
+                            <li><a href="http://www.in-toronto-web-design.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/geekpower.png" alt="Geek Power Web Design"></a></li>
+                            <li><a href="http://www.pastafermentata.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/pastaFermentata.png" alt="Kaslo Sourdough"></a></li>
                         </ul>
 
                     </div> <!--  .overflow -->
