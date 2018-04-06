@@ -421,7 +421,7 @@ get_header(); ?>
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-                                            <!--
+                                            <!-- ADDITIONAL SLIDES
                                              <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
@@ -564,7 +564,7 @@ get_header(); ?>
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-                                            <!--
+                                            <!-- ADDITIONAL SLIDES
                                              <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
@@ -621,62 +621,53 @@ get_header(); ?>
                                                         <div class="heading-outer">
                                                             <h2 class="heading">Pasta Fermentata</h2>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
                                                             <li><p class="sub-heading">DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
                                                             <p>Pasta Fermentata is more or less now the main focus of a local bakery based in Kaslo, British Columbia by the name of Kaslo Sourdough. This company sells naturally fermented pasta and required an e-commerce website with customized shipping &amp; pricing rules to fit their company needs. Pasta Fermentata uses Canada Post to ship out their items, thus a shipping calculator was required for their website.</p>
                                                             <p>Alongside the shipping calculator, a number of other modules were programmed and integrated into the website. Some of these modules include: blog/news reel, custom recipe pages, store/shop locator, automated e-mail forms, search engine optimization &amp; more. This website is a full content management system, which means the administrator can freely edit the content of the website without having programming knowledge. Click below to view the website.</p>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
                                                             <a href="http://www.pastafermentata.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
-                                                </div> <!-- END LEFT SIDE -->
+                                                </div>
 
-                                                <!-- Right side Image -->
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
                                                             <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata-small.jpg" alt="Pasta Fermentata Portfolio Image">
                                                         </div>
                                                     </div>
-                                                </div> <!-- RIGHT SIDE -->
+                                                </div>
 
-                                            </div> <!-- .project-detail-content -->
+                                            </div> 
 
                                             <div class="clearfix"></div>
                                             
-                                            <!-- Back Button Area -->
                                             <div class="overflow">
                                                 <div class="btn-outer text-center m-t-30">
                                                     <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
                                                 </div>
                                             </div>
-                                            <!-- Back Button Area -->
-
-                                        </div> <!-- .project-detail -->
-
-                                    </div> <!-- .col-xs-12 -->
-
-                                </div> 
-
-                            </div> <!-- .item -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="item ">
-                                
                                 <div class="porifolio-section overflow">
-
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
@@ -684,7 +675,6 @@ get_header(); ?>
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="each-portfolio-heading">
                                         <div class="heading-text overflow wow">
                                             <div class="line"></div>
@@ -699,14 +689,13 @@ get_header(); ?>
                                                 </div>
                                             </div>
                                         </div>
-
                                         <div class="link-list overflow wow">
                                             <div class="link one overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
                                                 </div>
                                             </div>
-                                            <!--
+                                            <!-- ADDITIONAL SLIDES
                                              <div class="link two overflow">
                                                 <div class="inner">
                                                     <a class="btn btn-slider right-icon btn-mask"  data-element="slider">VIEW SLIDES <i class="icon icon-arrow-right"></i></a>
@@ -763,75 +752,65 @@ get_header(); ?>
                                                         <div class="heading-outer">
                                                             <h2 class="heading">South Okanagan Properties</h2>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
                                                             <li><p class="sub-heading">DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
                                                             <p>South Okanagan Properties is a content management system real estate website with the ability to dynamically collect MLS listings, and have them posted on this respective website. Chris Marte, a real estate agent from the South Okanagan Properties wanted to feature their listings as well as all of the south okanagan listings on their website - the trick here is they wanted their listings to show first.</p>
                                                             <p>Aside from pulling in data from the MLS, this website has the ability of creating custom house postings, which are outside the MLS. This gives these real estate agents the ability to post private listings on their website which most other real estate websites do not have this ability. Alongside the listings, there is a news reel/blog, automated email forms, and a custom-timeline specifically designed for the companies historical timeline.</p>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
                                                             <a href="#" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
-                                                    </div> <!-- .overflow -->
+                                                    </div>
 
-                                                </div> <!-- END LEFT SIDE -->
+                                                </div>
 
-                                                <!-- Right side Image -->
+
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
                                                             <img src="<?php echo get_template_directory_uri(); ?>/images/project-southokanagan-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
-                                                </div> <!-- RIGHT SIDE -->
+                                                </div>
 
-                                            </div> <!-- .project-detail-content -->
+                                            </div>
 
                                             <div class="clearfix"></div>
                                             
-                                            <!-- Back Button Area -->
                                             <div class="overflow">
                                                 <div class="btn-outer text-center m-t-30">
                                                     <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
                                                 </div>
                                             </div>
-                                            <!-- Back Button Area -->
-
-                                        </div> <!-- .project-detail -->
-
-                                    </div> <!-- .col-xs-12 -->
-
+                                        </div>
+                                    </div> 
                                 </div> 
-
-                            </div> <!-- .item -->
-
-                        </div> <!-- .swiper-wrapper -->
-                    </div> <!-- .testimonials-container -->
-                </div> <!-- col-xs-12 -->
-
-            </div> <!-- .row -->
-        </div> <!-- .container -->
-    </div> <!-- .inner-container -->
+                            </div> 
+                        </div>
+                    </div> 
+                </div> 
+            </div>
+        </div> 
+    </div> 
 </div>
  
-<!-- TESTIMONIALS -->
+<!-- TESTIMONIALS & COMPANIES SECTION-->
 <div class=" section section-item combine-section hide-overlay semi-dark-background" id="testimonial-section">
     <div class="inner-container testimonial-section semi-dark-background" id="testimonial">
          <div class="container">
             <div class="row section-separator sp-bottom">
-                
-                <!-- Start: Section Heading -->
                 <div class="section-header col-sm-10 col-sm-offset-1">
                     <div class="overflow">
                         <div class="line-outer">
@@ -849,14 +828,13 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <!--  Section Heading -->
 
                 <div class="clearfix"></div>
 
                 <div class="col-xs-12 m-t-30">
                     <div class="overflow text-center">
                         
-                        <!-- OUR CLIENTS LOGO -->
+                        <!-- COMPANIES LOGOS -->
                         <ul class="nav client-logo wow">
                             <li><a href="https://us.pg.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/png.png" alt="P&G"></a></li>
                             <li><a href="http://www.bigbearsoftware.ca/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/clients-logo/bigbearSoftware.png" alt="Big Bear Software"></a></li>
@@ -873,16 +851,8 @@ get_header(); ?>
                 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                     <div class="testimonial-container wow">
                         <div class="testimonial-wrapper pagination-style-1 owl-carousel">
-
-                            <!-- SLIDES -->
+                             <!-- Testimonial Item -->
                             <div class="item">
-                                <!--
-                                 <div class="overflow">
-                                    <div class="image-outer">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/1.jpg">
-                                    </div>
-                                </div>
-                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“Calin was able to work closely with us and help provide a number of multimedia assets which we were in need of at Hall Tree Farms. The work completed was presented to us in a timely manner and we were very happy with everything done by this creative individual.”</blockquote>
@@ -895,15 +865,9 @@ get_header(); ?>
                                     </div>
                                 </div>
 
-                            </div> <!--  .swiper-slider -->
+                            </div>
+                            <!-- Testimonial Item -->
                             <div class="item">
-                                <!--
-                                 <div class="overflow">
-                                    <div class="image-outer">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/2.jpg">
-                                    </div>
-                                </div>
-                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“The level of professionalism which is portrayed through our website is outstanding. We are very happy with the end product and would recommend working with Calin if you need a modern website. His high level of understanding the web means less headaches for everyone!”</blockquote>
@@ -915,16 +879,9 @@ get_header(); ?>
                                         <span class="position">Real Estate Broker, South Okanagan Properties</span>
                                     </div>
                                 </div>
-
-                            </div> <!--  .swiper-slider -->
+                            </div>
+                             <!-- Testimonial Item -->
                             <div class="item">
-                                <!-- 
-                                <div class="overflow">
-                                    <div class="image-outer">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/2.jpg">
-                                    </div>
-                                </div>
-                                -->
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
                                         <blockquote>“Working with Calin I was able to finally open up my own local start-up and have it truly reflect what I had in mind when it came to starting my own business. The web-design process felt very seamless and easy with someone that knows what they are doing!”</blockquote>
@@ -936,29 +893,23 @@ get_header(); ?>
                                         <span class="position">CEO, Okanagan Celebrations</span>
                                     </div>
                                 </div>
-
-                            </div> <!--  .swiper-slider -->
-
-                        </div> <!--  .swiper-wrapper -->
-                    </div> <!--  .testimonials-container -->
-                </div> <!--  .col-xs-12 -->
-
-            </div> <!--  .row -->
-        </div> <!--  .container -->
-    </div> <!--  .inner-container -->
-
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
 </div>
-<!-- 4th Section  
-    - TESTIMONIAL PAGE
-====================================-->
 
 
+<!-- My Skills Section -->
 <div class=" section section-item combine-section hide-overlay overflow dark-background" id="team-section">
     <div class="inner-container team-member dark-background">
         <div class="container">
             <div class="row section-separator sp-bottom">
                 
-                <!-- Start: Section Heading -->
+                <!-- My Skills Heading -->
                 <div class="section-header col-sm-10 col-sm-offset-1">
                     <div class="overflow">
                         <div class="line-outer">
@@ -977,7 +928,6 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <!--  Section Heading -->
 
                 <div class="clearfix"></div>
 
@@ -1001,7 +951,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1019,7 +969,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1037,7 +987,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1047,7 +997,7 @@ get_header(); ?>
                                     </div>
                                     <div class="profile-content">
                                         <span class="name">PHP</span>
-                                        <span class="position">8+ years of experience</span>
+                                        <span class="position">7+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1055,7 +1005,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1069,11 +1019,11 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>I started developing WordPress websites at my first web-developer job and have fallen in love with it ever since. When developing websites, I use WordPress religously. WordPress is a great framework to develop full content management systems websites for those that want the ability to maintain and update their own website without having to pay a web-developer to do so.</p>
+                                    <p>I started developing WordPress websites at my first web-developer job and have fallen in love with it ever since. When developing websites, I use WordPress religously. WordPress is a great framework to develop full content management systems websites for those that want the ability to maintain and update their own website.</p>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1091,7 +1041,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1109,7 +1059,7 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
+                        </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 each-item overflow text-center relative wow">
                             <div class="item-inner overflow absolute">
 
@@ -1119,7 +1069,7 @@ get_header(); ?>
                                     </div>
                                     <div class="profile-content">
                                         <span class="name">ADOBE INDESIGN</span>
-                                        <span class="position">4+ years of experience</span>
+                                        <span class="position">3+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
@@ -1127,25 +1077,16 @@ get_header(); ?>
                                 </div>
 
                             </div>
-                        </div> <!--  .each-item -->
-
-
+                        </div>
                     </div>
-                </div> <!--  .col-xs-12 -->
-
-            </div> <!--  .row -->
-        </div> <!--  .container -->
-    </div> <!--  .inner-container -->
-
+                </div>
+            </div>
+        </div>
+    </div> 
 </div>
-<!-- 5th Section  
-    - OUR TEAM PAGE
-====================================-->
 
 
-<!--Start: 6th Section  
-    - CONTACT US PAGE
-====================================-->
+<!-- Contact Section -->
 <div class=" section section-item combine-section hide-overlay overflow wow" id="contact-us-section">
     <div class="overlay-color relative bg-image-2">
 
@@ -1153,7 +1094,7 @@ get_header(); ?>
             <div class="container">
                 <div class="row">
                     
-                    <!-- Start: Section Heading -->
+                    <!-- Contact Section Heading -->
                     <div class="section-header col-sm-10 col-sm-offset-1">
                         <div class="overflow">
                             <div class="line-outer">
@@ -1171,24 +1112,21 @@ get_header(); ?>
                             </div>
                         </div>
                     </div>
-                    <!--  Section Heading -->
-
                     <div class="clearfix"></div>
 
+                    <!-- Contact Form -->
                     <div class="custom-contact-form">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                             <div class="row single-form-outer wow">
                                 <?php //echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
                             </div>
-                        </div> <!--  .col-xs-12 -->
+                        </div> 
                     </div>
-
-
                     <div class="clearfix"></div>
 
-                </div> <!--  .row -->
-            </div> <!--  .container -->
-        </div> <!--  .inner-container -->
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
