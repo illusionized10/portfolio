@@ -69,7 +69,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                         <div class="navbar-collapse-right" >
                             <ul class="nav navbar-nav navbar-right btn-scroll">
                                 <li>
-                                    <a class="btn-nav btn-mask" id="contact-button" href="#contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a>
+                                    <a class="btn-nav btn-mask" id="contact-us-section" href="contact-us-section">Get in Touch <i class="icon icon-arrow-right"></i></a>
                                 </li>
                             </ul>
                         </div>

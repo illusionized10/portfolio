@@ -25,6 +25,18 @@ $( document ).ready(function() {
 
     });
 
-    
+
+    $('#contact-us-section').click(function(e) {
+        e.preventDefault();
+      	//Get content panel ID from clicked element
+      	var contentPanelId = $(this).attr("href");
+      	//Animate to clicked element
+		$('html, body').stop().animate({
+			scrollTop: $(contentPanelId).offset().top
+		}, 900, 'swing', function () {
+			window.location.hash = target;
+		});
+    });
+
 	
 });
