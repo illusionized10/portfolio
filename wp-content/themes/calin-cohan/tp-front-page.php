@@ -1033,7 +1033,7 @@ get_header(); ?>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>I started writing JavaScript also in high school with some introduction courses, which eventually led to teaching myself how to program custom macros for a video game using colour detection methods from a widely used JavaScript library. Since that project, I've never looked away from JavaScript.</p>
+                                    <p>I started writing JavaScript also in high school with the introduction courses. Eventually, this led to teaching myself how to program custom macros for a video game using colour detection methods from a widely used JavaScript library. Since that project, I've never looked away from JavaScript.</p>
                                 </div>
 
                             </div>
@@ -1061,15 +1061,15 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/aspnet-icon.png" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/wordpressLogo.png" alt="Wordpress Logo" class="">
                                     </div>
                                     <div class="profile-content">
-                                        <span class="name">ASP.NET</span>
+                                        <span class="name">WordPress</span>
                                         <span class="position">5+ years of experience</span>
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>ASP.NET is a programming language which I realized I had to learn if I wanted to work on MVC based applications. Microsoft's development platform Azure is a wonderful tool for developing such applications. Learning how to create these applications taught me just how important software architecture can be.</p>
+                                    <p>I started developing WordPress websites at my first web-developer job and have fallen in love with it ever since. When developing websites, I use WordPress religously. WordPress is a great framework to develop full content management systems websites for those that want the ability to maintain and update their own website without having to pay a web-developer to do so.</p>
                                 </div>
 
                             </div>
@@ -1079,7 +1079,7 @@ get_header(); ?>
 
                                 <div class="profile-outer center">
                                     <div class="profile-image">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/photoshopIcon.png" alt="Team Member" class="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/images/testimonial/photoshopIcon.png" alt="Photoshop Logo" class="">
                                     </div>
                                     <div class="profile-content">
                                         <span class="name">ADOBE PHOTOSHOP</span>
