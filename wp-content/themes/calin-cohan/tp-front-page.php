@@ -5,7 +5,22 @@
  * @package calin-cohan
  */
 
-get_header(); ?>
+get_header();
+
+// Get Fields
+$serviceTitleMain = get_field('cc_service_title_main');
+$serviceTitleMainDesc = get_field('cc_service_title_description');
+
+$serviceTitleOne = get_field('cc_service_title_one');
+$serviceTextOne = get_field('cc_service_text_one');
+
+$serviceTitleTwo = get_field('cc_service_title_two');
+$serviceTextTwo = get_field('cc_service_text_two');
+
+$serviceTitleThree = get_field('cc_service_title_three');
+$serviceTextThree = get_field('cc_service_text_three');
+
+?>
 
 <div class="section section-item home-section overflow hide-overlay overlay-color bg-image-1 wow" id="home-section">
     <div class="inner-container ">
@@ -77,12 +92,12 @@ get_header(); ?>
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer m-b-15">
-                            <p class="sub-heading wow">PROFESSIONS</p>
+                            <p class="sub-heading wow"><?php echo $serviceTitleMain; ?></p>
                         </div> 
                     </div>
                     <div class="overflow">
                         <div class="section-heading-outer p-l-50 p-r-50">
-                            <h2 class="section-heading wow">From executing modern designs, to programming websites &amp; mobile applications.</h2>
+                            <h2 class="section-heading wow"><?php echo $serviceTitleMainDesc; ?></h2>
                         </div>
                     </div>
                 </div>
@@ -101,17 +116,16 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">UX Design.</h4>
+                                    <h4 class="title"><?php echo $serviceTitleOne; ?></h4>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>Without a user-friendly interface visitors are likely to leave your website, resulting in conversion loss. I can help create
-                                    an engaging and user friendly experience.</p>
+                                    <p><?php echo $serviceTextOne; ?></p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
-                                <div class="btn-form-outer wow">  <!-- Button Area -->
+                                <div class="btn-form-outer wow">
                                     <a href="#services-1" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -129,16 +143,16 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Web Development.</h4>
+                                    <h4 class="title"><?php echo $serviceTitleTwo; ?></h4>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>Front-end and back-end programming applications and websites requires working knowledge of how a back-end is to function with a nice looking front-end user interface.</p>
+                                    <p><?php echo $serviceTextTwo; ?></p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
-                                <div class="btn-form-outer wow">  <!-- Button Area -->
+                                <div class="btn-form-outer wow">
                                     <a href="#services-2" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -156,16 +170,16 @@ get_header(); ?>
                             </div>
                             <div class="overflow">
                                 <div class="title-outer wow">
-                                    <h4 class="title">Marketing &amp; SEO.</h4>
+                                    <h4 class="title"><?php echo $serviceTitleThree; ?></h4>
                                 </div>
                             </div>
                             <div class="overflow">
                                 <div class="pera-outer wow">
-                                    <p>SEO stands for "Search Engine Optimization". It is the process of getting traffic from the free, organic, editorial or natural search results on search engines.</p>
+                                    <p><?php echo $serviceTextThree; ?></p>
                                 </div>
                             </div>
                             <div class="overflow m-t-30">
-                                <div class="btn-form-outer wow">  <!-- Button Area -->
+                                <div class="btn-form-outer wow">
                                     <a href="#services-3" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>

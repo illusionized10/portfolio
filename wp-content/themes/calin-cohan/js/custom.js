@@ -25,17 +25,6 @@ $( document ).ready(function() {
 
     });
 
-    $('.each-services-inner a').on('click', function (e) {
-    	//Stop page from doing default shit
-      	e.preventDefault();
-
-    	var contentPanelId = "services-section";
-		$('html, body').stop().animate({
-			scrollTop: $(contentPanelId).offset().top
-		}, 900, 'swing', function () {
-			window.location.hash = target;
-		});
-
-	});
+    
 	
 });
