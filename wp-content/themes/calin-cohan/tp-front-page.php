@@ -8,6 +8,7 @@
 get_header();
 
 // Get Fields
+
 $serviceTitleMain = get_field('cc_service_title_main');
 $serviceTitleMainDesc = get_field('cc_service_title_description');
 
@@ -215,7 +216,7 @@ $serviceTextThree = get_field('cc_service_text_three');
 
                                     <div class="overflow m-b-15">
                                         <div class="title-outer">
-                                            <h6 class="title relative">A FRIENDLY USER EXPERIENCE IS EVERYTHING</h6>
+                                            <h6 class="title relative">A friendly interface means the world to the user.</h6>
                                         </div>
                                     </div>
 
@@ -1026,7 +1027,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                     <div class="custom-contact-form">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 overflow">
                             <div class="row single-form-outer wow">
-                                <?php //echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
+                                <?php echo do_shortcode('[contact-form-7 id="9" title="Contact Form"]'); ?>
                             </div>
                         </div> 
                     </div>
