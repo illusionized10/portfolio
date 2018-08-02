@@ -359,7 +359,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/images/project-bbwebsites.jpg" alt="Features Image">
+                                                <img src="<?php echo get_template_directory_uri(); ?>/images/ecostraw-preview.jpg" alt="Featured Image">
                                             </div>
                                         </div>
                                     </div>
@@ -373,7 +373,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">Big Bear Websites</div>
+                                                <div class="inner">Ecostraw Canada</div>
                                             </div>
                                         </div>
 
@@ -438,30 +438,27 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                         
                                                     <div class="overflow">
                                                         <div class="heading-outer">
-                                                            <h2 class="heading">Big Bear Websites</h2>
+                                                            <h2 class="heading">Ecostraw Canada</h2>
                                                         </div>
                                                     </div>
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">UX DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div>
 
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>
-                                                                Big Bear Websites is a division of <a href="http://www.bigbearsoftware.ca" target="_blank">Big Bear Software</a>. They are dedicated to helping businesses with custom website development services be the best they can be by creating unique, responsive websites for companies that are just starting to those with an established presence.</p>
-                                                            <p>
-                                                                This project was a fun project for me because I was able to be as creative as I wanted to be. A custom animation was created for the landing page of this website, it is a mouse cursor integrated animation which follows the user's mouse wherever it's hovered on the introduction panel of the website. Alongside the animation, the design is a modern responsive design which allows for any and all mobile devices to view the website with all elements intact. Feel free to visit the website by clicking on the link below:
-                                                            </p>
+                                                            <p>Ecostraw is a new company which is based out of Kelowna, British Columbia and is the first Canadian made re-usable straw on the market. Since reusable straws are becoming more and more of a necessity in our daily needs, this respective website was required to include e-commerce integration.</p><br>
+                                                            <p>This project was a fun project for me because I was able to be as creative as I wanted to be. That being said the decision was made to create panel separators which are non-linear. Alongside the diagonal and non-linear panels, the design is a modern responsive design which allows for any and all mobile devices to view the website with all elements intact.</p><br>
                                                         </div>
                                                     </div>
 
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
-                                                            <a href="http://www.bigbearwebsites.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
+                                                            <a href="http://www.ecostraw.ca" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
                                                     </div>
 
@@ -470,7 +467,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                 <div class="col-sm-6 col-xs-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-bbwebsites-small.jpg" alt="Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/ecostraw-small-preview.jpg" alt="Small Preview Image">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -683,14 +680,14 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                     </div>
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">UX DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div>
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>South Okanagan Properties is a content management system real estate website with the ability to dynamically collect MLS listings, and have them posted on this respective website. Chris Marte, a real estate agent from the South Okanagan Properties wanted to feature their listings as well as all of the south okanagan listings on their website - the trick here is they wanted their listings to show first.</p>
-                                                            <p>Aside from pulling in data from the MLS, this website has the ability of creating custom house postings, which are outside the MLS. This gives these real estate agents the ability to post private listings on their website which most other real estate websites do not have this ability. Alongside the listings, there is a news reel/blog, automated email forms, and a custom-timeline specifically designed for the companies historical timeline.</p>
+                                                            <p>South Okanagan Properties is a content management system real estate website with the ability to dynamically collect MLS listings, and have them posted on this respective website. Chris Marte, a real estate agent from the South Okanagan Properties wanted to feature their listings as well as all of the south okanagan listings on their website - the trick here is they wanted their listings to show first.</p><br>
+                                                            <p>Aside from pulling in data from the MLS, this website has the ability of creating custom house postings, which are outside the MLS. This gives these real estate agents the ability to post private listings on their website which most other real estate websites do not have this ability.</p><br>
                                                         </div>
                                                     </div>
                                                     <div class="overflow">
@@ -702,7 +699,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-southokanagan-small.jpg" alt="Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/south-okanagan-real-estate-small.jpg" alt="Portfolio Image">
                                                         </div>
                                                     </div>
                                                 </div>
