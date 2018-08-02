@@ -490,7 +490,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     <div class="col-xs-10 col-xs-offset-1">
                                         <div class="row">
                                             <div class="image text-center">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata.jpg" alt="Features Image">
+                                                <img src="<?php echo get_template_directory_uri(); ?>/images/bow-living-large.jpg" alt="Features Image">
                                             </div>
                                         </div>
                                     </div>
@@ -503,7 +503,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                 </div>
                                             </div>
                                             <div class="text overflow">
-                                                <div class="inner">Pasta Fermentata</div>
+                                                <div class="inner">The Bow</div>
                                             </div>
                                         </div>
                                         <div class="link-list overflow wow">
@@ -559,32 +559,32 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                 <div class="col-md-6 col-sm-12 vertical-middle project-detail-content">
                                                     <div class="overflow">
                                                         <div class="heading-outer">
-                                                            <h2 class="heading">Pasta Fermentata</h2>
+                                                            <h2 class="heading">The Bow</h2>
                                                         </div>
                                                     </div>
 
                                                     <div class="overflow">
                                                         <ul class="nav list">
-                                                            <li><p class="sub-heading">DESIGN</p></li>
+                                                            <li><p class="sub-heading">UX DESIGN</p></li>
                                                             <li><p class="sub-heading">PROGRAMMING</p></li>
                                                         </ul>
                                                     </div>
                                                     <div class="overflow">
                                                         <div class="pera-outer m-t-30">
-                                                            <p>Pasta Fermentata is more or less now the main focus of a local bakery based in Kaslo, British Columbia by the name of Kaslo Sourdough. This company sells naturally fermented pasta and required an e-commerce website with customized shipping &amp; pricing rules to fit their company needs. Pasta Fermentata uses Canada Post to ship out their items, thus a shipping calculator was required for their website.</p>
-                                                            <p>Alongside the shipping calculator, a number of other modules were programmed and integrated into the website. Some of these modules include: blog/news reel, custom recipe pages, store/shop locator, automated e-mail forms, search engine optimization &amp; more. This website is a full content management system, which means the administrator can freely edit the content of the website without having programming knowledge. Click below to view the website.</p>
+                                                            <p>The Bow is one of the newest luxury affordable housing projects in Penticton. A ranch-style residential community leased to Warren Avenue Development Corp. for an unprecedented 150-year tenure. Purchasers own their home and have a sublease under a secure 150-year land lease from the Crown, Her Majesty in right of Canada.</p><br>
+                                                            <p>This website was designed and developed to promote the new housing development. It is a is a modern responsive website with a number of back-end tools running simultaneously.</p><br>
                                                         </div>
                                                     </div>
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
-                                                            <a href="http://www.pastafermentata.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
+                                                            <a href="http://www.bowliving.ca" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
                                                     <div class="row text-right display-full">
                                                         <div class="project-detail-image-outer display-full">
-                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/project-pastafermentata-small.jpg" alt="Pasta Fermentata Portfolio Image">
+                                                            <img src="<?php echo get_template_directory_uri(); ?>/images/bow-living-small.jpg" alt="Pasta Fermentata Portfolio Image">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -692,7 +692,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                                     </div>
                                                     <div class="overflow">
                                                         <div class="full-view-outer">
-                                                            <a href="#" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
+                                                            <a href="http://www.southokanaganproperties.com" target="_blank" class="btn right-icon btn-mask">SEE THE PROJECT <i class="icon icon-arrow-right"></i></a>
                                                         </div>
                                                     </div>
                                                 </div>
