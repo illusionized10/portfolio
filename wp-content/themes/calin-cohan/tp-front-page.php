@@ -62,7 +62,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                     <div class="container relative home-nav-inner">
                         
                         <div class="navbar-header">
-                            <a class="navbar-brand light-logo" href="#">
+                            <a class="navbar-brand light-logo" href="<?php echo get_home_url(); ?>">
                                 <img src="<?php echo get_template_directory_uri(); ?>/images/logo-icon.png" alt="" class="img-responsive">
                             </a>
                         </div>
@@ -125,7 +125,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     <p><?php echo $serviceTextOne; ?></p>
                                 </div>
                             </div>
-                            <div class="overflow m-t-30">
+                            <div class="overflow">
                                 <div class="btn-form-outer wow">
                                     <a href="#services-1" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
@@ -152,7 +152,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     <p><?php echo $serviceTextTwo; ?></p>
                                 </div>
                             </div>
-                            <div class="overflow m-t-30">
+                            <div class="overflow">
                                 <div class="btn-form-outer wow">
                                     <a href="#services-2" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
@@ -179,7 +179,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     <p><?php echo $serviceTextThree; ?></p>
                                 </div>
                             </div>
-                            <div class="overflow m-t-30">
+                            <div class="overflow">
                                 <div class="btn-form-outer wow">
                                     <a href="#services-3" class="btn right-icon btn-services btn-mask">LEARN MORE <i class="icon icon-arrow-right"></i></a>
                                 </div>
@@ -228,7 +228,7 @@ $serviceTextThree = get_field('cc_service_text_three');
 
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>User experience is dynamic as it is constantly modified over time due to changing usage circumstances and changes to individual systems as well as the wider usage context in which they can be found. In the end user experience is about how the user interacts and experiences the product.
+                                            <p>User experience is dynamic as it is constantly modified over time. Due to changing usage circumstances, changes to individual systems as well as the wider usage context in which they can be found. In the end user experience is about how the user interacts and experiences the product.
                                         </div>
                                     </div>
 
@@ -272,12 +272,12 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>A more comprehensive list of tasks to which web development commonly refers, may include web engineering, web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development. </p>
+                                            <p>A more comprehensive list of tasks to which web development commonly refers: web engineering, web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development.</p>
                                         </div>
                                     </div>
                                     <div class="overflow">
                                         <div class="pera-outer">
-                                            <p>Among web professionals, "web development" usually refers to the main non-design aspects of building web sites: writing markup and coding. Most recently Web development has come to mean the creation of content management systems or CMS. These CMS can be made from scratch, proprietary or open source. In broad terms the CMS acts as middleware between the database and the user through the browser. A principle benefit of a CMS is that it allows non-technical people to make changes to their web site without having technical knowledge.</p>
+                                            <p>Among web professionals, "web development" usually refers to the main non-design aspects of building web sites, writing markup and coding. Most recently web development has come to mean the creation of content management systems or CMS. These CMS can be made from scratch, proprietary or open source. In broad terms the CMS acts as middleware between the database and the user through the browser. A principle benefit of a CMS is that it allows non-technical people to make changes to their web site without having technical knowledge.</p>
                                         </div>
                                     </div>
                                     <div class="overflow">
@@ -767,7 +767,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                             <div class="item">
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“Calin was able to work closely with us and help provide a number of multimedia assets which we were in need of at Hall Tree Farms. The work completed was presented to us in a timely manner and we were very happy with everything done by this creative individual.”</blockquote>
+                                        <blockquote>"Calin was able to work closely with us and help provide a number of multimedia assets which we were in need of at Hall Tree Farms. The work completed was presented to us in a timely manner and we were very happy with everything done by this creative individual."</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
@@ -781,7 +781,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                             <div class="item">
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“The level of professionalism which is portrayed through our website is outstanding. We are very happy with the end product and would recommend working with Calin if you need a modern website. His high level of understanding the web means less headaches for everyone!”</blockquote>
+                                        <blockquote>"The level of professionalism which is portrayed through our website is outstanding. We are very happy with the end product and would recommend working with Calin if you need a modern website. His high level of understanding the web means less headaches for everyone!"</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
@@ -794,7 +794,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                             <div class="item">
                                 <div class="overflow m-t-40">
                                     <div class="text-outer">
-                                        <blockquote>“Working with Calin I was able to finally open up my own local start-up and have it truly reflect what I had in mind when it came to starting my own business. The web-design process felt very seamless and easy with someone that knows what they are doing!”</blockquote>
+                                        <blockquote>"Working with Calin I was able to finally open up my own local start-up and have it truly reflect what I had in mind when it came to starting my own business. The web-design process felt very seamless and easy with someone that knows what they are doing!"</blockquote>
                                     </div>
                                 </div>
                                 <div class="overflow m-t-40 m-b-30">
@@ -856,7 +856,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>My love and interest for HTML started way back in my 9th grade in high school. Ever since the first introduction to web course, I have been always learning and reading about how I can improve my working knowledge of HTML. HTML is a constantly changing and evolving language, and I love keeping up with it.</p>
+                                    <p>My love and interest for HTML started in 9th grade. Ever since the first introduction to the web course, I have always been learning and reading about how I can expand my working knowledge of HTML. HTML is a constantly changing and evolving language, and I love keeping up with it.</p>
                                 </div>
 
                             </div>
@@ -874,7 +874,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Alongside with my introduction to HTML, I essentially learned how to write cascading stylesheets (CSS) hand-in-hand with my HTML courses. The ability to create custom styles which supports the markup language used for front-end purposes made my passion for the web industry even stronger.</p>
+                                    <p>Alongside with my introduction to HTML, I learned how to write cascading stylesheets (CSS). The ability to create custom styles which supports the markup language used for front-end purposes made my passion for the web industry even stronger.</p>
                                 </div>
 
                             </div>
@@ -892,7 +892,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>I started writing JavaScript also in high school with the introduction courses. Eventually, this led to teaching myself how to program custom macros for a video game using colour detection methods from a widely used JavaScript library. Since that project, I've never looked away from JavaScript.</p>
+                                    <p>I started writing JavaScript as well with the introduction courses. Eventually, this led to teaching myself how to program custom macros for a video game using colour detection methods from a widely used JavaScript library. Since that project, I've never looked away from JavaScript.</p>
                                 </div>
 
                             </div>
@@ -910,7 +910,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>My introduction to PHP was more or less a love-hate relationship since most of the languages I knew at this time were not server-side languages. The learning curve was rather steep, however after being introducted to WordPress, learning PHP almost felt like it was a must.</p>
+                                    <p>My introduction to PHP was more or less a love-hate relationship, since most of the languages I knew at this time were not server-side languages. The learning curve was rather steep however after being introduced to WordPress, learning PHP felt like it was a must.</p>
                                 </div>
 
                             </div>
@@ -928,7 +928,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>I started developing WordPress websites at my first web-developer job and have fallen in love with it ever since. When developing websites, I use WordPress religously. WordPress is a great framework to develop full content management systems websites for those that want the ability to maintain and update their own website.</p>
+                                    <p>I started developing WordPress websites at my first web-developer position and have fallen in love with it ever since. When developing websites I use WordPress religiously. WordPress is a great framework to develop full content management systems websites for those that want the ability to maintain and update their own website.</p>
                                 </div>
 
                             </div>
@@ -946,7 +946,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Photoshop was a program that I personally always loved. I never have been able to be as creative on paper than I was with a computer, this program enabled me to do so. Numerous tutorials, articles, and personal projects led me to my passion with web design, and this software made it possible.</p>
+                                    <p>Photoshop was a program that I personally always admired. I was never as creative on paper than I was on a computer and this program enabled me to expand my abilities. Numerous tutorials, articles, and personal projects led me to my passion with web design, and this software made it possible.</p>
                                 </div>
 
                             </div>
@@ -964,7 +964,7 @@ $serviceTextThree = get_field('cc_service_text_three');
                                     </div>
                                 </div>
                                 <div class="content-detail">
-                                    <p>Illustrator somewhat fell into my hands after I had been working in the industry for a few years. The use of vector graphics are being used more and more widely throughout the web. Thus, learning how to create and generate vector graphics with Illustrator is essential for any professional graphic designer.</p>
+                                    <p>Illustrator fell into my hands after I had been working in the industry for a few years. The use of vector graphics are being used more and more widely throughout the web. Thus, learning how to create and generate vector graphics with Illustrator is essential for any professional graphic designer.</p>
                                 </div>
 
                             </div>

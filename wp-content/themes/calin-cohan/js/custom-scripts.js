@@ -243,7 +243,9 @@
      * Main Navigation Button Script
      * =============================================
      */
-    $('.nav-trigger').on('click', function() {
+    $('.nav-trigger').on('click', function(e) {
+
+      e.preventDefault();
 
       var thisSection = $(this),
           actionId    = $( thisSection.attr('data-target') );

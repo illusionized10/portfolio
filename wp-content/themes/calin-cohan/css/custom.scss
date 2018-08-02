@@ -124,7 +124,9 @@ body {
 				@include breakpoint(md) {
 					line-height:65px;
 				}
-				
+			}
+			.icon-arrow-right {
+				top:10px !important;
 			}
 			p {
 				font-size:16px;

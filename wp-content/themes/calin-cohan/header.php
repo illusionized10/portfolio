@@ -28,7 +28,7 @@
     <!-- GOOGLE FONTS -->
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,700,900" rel="stylesheet" type='text/css'>
 
     <!-- FavIcon -->
     <link rel='shortcut icon' type='image/x-icon' href='<?php echo get_template_directory_uri(); ?>/images/favicon.png' />
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <div class="navbar-collapse" id="js-navbar-menu">
                     <ul class="nav navbar-nav navbar-right" id="navbar-nav">
-                        <li><a class="btn-nav" href="#services-section">professions</a></li>
-                        <li><a class="btn-nav" href="#portfolio-section">portfolio</a></li>
-                        <li><a class="btn-nav" href="#testimonial-section">testimonials</a></li>
+                        <li><a class="btn-nav" href="#services-section">Professions</a></li>
+                        <li><a class="btn-nav" href="#portfolio-section">Portfolio</a></li>
+                        <li><a class="btn-nav" href="#testimonial-section">Testimonials</a></li>
                         <li><a class="btn-nav" href="#team-section">Skills</a></li>
                         <li><a class="btn-nav" href="#contact-us-section">Contact</a></li>
                     </ul>

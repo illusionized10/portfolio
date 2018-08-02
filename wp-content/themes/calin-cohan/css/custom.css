@@ -143,6 +143,8 @@ body {
     @media (min-width: 992px) {
       body .each-services .each-services-inner h4 {
         line-height: 65px; } }
+  body .each-services .each-services-inner .icon-arrow-right {
+    top: 10px !important; }
   body .each-services .each-services-inner p {
     font-size: 16px;
     font-weight: 300;
