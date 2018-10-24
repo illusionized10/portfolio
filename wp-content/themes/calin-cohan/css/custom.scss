@@ -24,6 +24,15 @@ body {
 	    text-align: -ms-center;
 	}
 
+	.site-footer {
+		padding:10px 0px;
+		span {
+			color:#333333;
+			text-transform:uppercase;
+			letter-spacing:1px;
+		}
+	}
+
 	.wpcf7-response-output {
 		font-size:14px !important;
 		margin:0px !important;

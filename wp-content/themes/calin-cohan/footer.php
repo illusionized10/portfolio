@@ -14,7 +14,11 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer">
-
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center"><span>© Copyright 2018 Calin Cohan</span></div>
+			</div>
+		</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
